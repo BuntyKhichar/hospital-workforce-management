@@ -1,0 +1,2001 @@
+date,department,patient_count,avg_wait_minutes,peak_hour
+2025-10-20,Emergency,35,20.5,18
+2025-10-20,Cardiology,25,13.7,18
+2025-10-20,Orthopedics,22,21.3,10
+2025-10-20,Pediatrics,12,25.0,18
+2025-10-20,General Medicine,40,32.4,11
+2025-10-21,Emergency,28,26.0,9
+2025-10-21,Cardiology,24,23.0,17
+2025-10-21,Orthopedics,18,28.1,18
+2025-10-21,Pediatrics,15,19.5,11
+2025-10-21,General Medicine,42,29.3,17
+2025-10-22,Emergency,46,26.1,11
+2025-10-22,Cardiology,14,24.2,10
+2025-10-22,Orthopedics,21,18.4,10
+2025-10-22,Pediatrics,21,26.3,17
+2025-10-22,General Medicine,32,27.8,17
+2025-10-23,Emergency,35,26.3,10
+2025-10-23,Cardiology,24,24.4,10
+2025-10-23,Orthopedics,22,24.3,17
+2025-10-23,Pediatrics,9,18.4,11
+2025-10-23,General Medicine,36,24.5,9
+2025-10-24,Emergency,28,29.0,16
+2025-10-24,Cardiology,17,22.6,16
+2025-10-24,Orthopedics,26,27.7,9
+2025-10-24,Pediatrics,15,25.6,11
+2025-10-24,General Medicine,32,19.4,9
+2025-10-25,Emergency,40,27.5,17
+2025-10-25,Cardiology,19,23.0,17
+2025-10-25,Orthopedics,23,25.3,10
+2025-10-25,Pediatrics,17,19.8,17
+2025-10-25,General Medicine,47,26.0,16
+2025-10-26,Emergency,40,29.0,11
+2025-10-26,Cardiology,21,20.5,16
+2025-10-26,Orthopedics,14,13.8,9
+2025-10-26,Pediatrics,13,22.9,17
+2025-10-26,General Medicine,42,33.7,17
+2025-10-27,Emergency,38,21.7,10
+2025-10-27,Cardiology,13,19.2,11
+2025-10-27,Orthopedics,11,22.6,16
+2025-10-27,Pediatrics,14,13.8,17
+2025-10-27,General Medicine,36,27.1,16
+2025-10-28,Emergency,43,26.3,9
+2025-10-28,Cardiology,20,23.5,16
+2025-10-28,Orthopedics,27,25.7,9
+2025-10-28,Pediatrics,10,17.0,18
+2025-10-28,General Medicine,37,19.3,16
+2025-10-29,Emergency,32,17.7,16
+2025-10-29,Cardiology,21,26.8,16
+2025-10-29,Orthopedics,39,28.7,16
+2025-10-29,Pediatrics,5,20.4,11
+2025-10-29,General Medicine,37,23.1,9
+2025-10-30,Emergency,40,27.6,10
+2025-10-30,Cardiology,13,12.5,17
+2025-10-30,Orthopedics,22,31.7,17
+2025-10-30,Pediatrics,23,20.6,10
+2025-10-30,General Medicine,34,21.9,11
+2025-10-31,Emergency,29,28.6,11
+2025-10-31,Cardiology,25,25.4,16
+2025-10-31,Orthopedics,22,19.6,10
+2025-10-31,Pediatrics,15,15.2,18
+2025-10-31,General Medicine,41,34.9,18
+2025-11-01,Emergency,37,27.6,11
+2025-11-01,Cardiology,23,21.0,11
+2025-11-01,Orthopedics,27,31.6,10
+2025-11-01,Pediatrics,12,13.8,10
+2025-11-01,General Medicine,55,29.2,10
+2025-11-02,Emergency,46,22.6,11
+2025-11-02,Cardiology,25,21.5,16
+2025-11-02,Orthopedics,24,25.0,10
+2025-11-02,Pediatrics,20,25.6,10
+2025-11-02,General Medicine,44,23.5,16
+2025-11-03,Emergency,28,22.5,17
+2025-11-03,Cardiology,11,20.6,10
+2025-11-03,Orthopedics,25,21.1,11
+2025-11-03,Pediatrics,23,25.8,18
+2025-11-03,General Medicine,39,23.1,9
+2025-11-04,Emergency,35,26.6,9
+2025-11-04,Cardiology,20,23.5,18
+2025-11-04,Orthopedics,33,21.0,17
+2025-11-04,Pediatrics,9,17.0,9
+2025-11-04,General Medicine,47,24.7,17
+2025-11-05,Emergency,21,21.8,16
+2025-11-05,Cardiology,16,17.1,17
+2025-11-05,Orthopedics,11,13.1,10
+2025-11-05,Pediatrics,10,14.7,17
+2025-11-05,General Medicine,57,24.7,16
+2025-11-06,Emergency,36,34.6,11
+2025-11-06,Cardiology,18,25.8,10
+2025-11-06,Orthopedics,20,21.7,9
+2025-11-06,Pediatrics,16,20.2,10
+2025-11-06,General Medicine,37,28.5,17
+2025-11-07,Emergency,35,27.5,16
+2025-11-07,Cardiology,19,18.6,9
+2025-11-07,Orthopedics,22,33.3,16
+2025-11-07,Pediatrics,20,18.6,11
+2025-11-07,General Medicine,42,21.7,17
+2025-11-08,Emergency,40,29.2,9
+2025-11-08,Cardiology,27,26.2,18
+2025-11-08,Orthopedics,22,24.2,17
+2025-11-08,Pediatrics,18,21.4,16
+2025-11-08,General Medicine,46,35.5,11
+2025-11-09,Emergency,37,27.0,10
+2025-11-09,Cardiology,20,13.6,11
+2025-11-09,Orthopedics,35,18.0,11
+2025-11-09,Pediatrics,18,21.7,17
+2025-11-09,General Medicine,43,34.0,18
+2025-11-10,Emergency,44,33.6,16
+2025-11-10,Cardiology,30,26.8,17
+2025-11-10,Orthopedics,20,22.7,10
+2025-11-10,Pediatrics,24,17.4,17
+2025-11-10,General Medicine,39,32.4,9
+2025-11-11,Emergency,45,31.6,18
+2025-11-11,Cardiology,19,16.3,17
+2025-11-11,Orthopedics,31,28.0,17
+2025-11-11,Pediatrics,12,20.8,16
+2025-11-11,General Medicine,36,27.5,16
+2025-11-12,Emergency,38,14.9,16
+2025-11-12,Cardiology,20,24.5,16
+2025-11-12,Orthopedics,10,17.2,9
+2025-11-12,Pediatrics,8,27.1,17
+2025-11-12,General Medicine,46,25.3,17
+2025-11-13,Emergency,41,28.2,17
+2025-11-13,Cardiology,21,18.3,11
+2025-11-13,Orthopedics,21,24.5,18
+2025-11-13,Pediatrics,11,19.8,17
+2025-11-13,General Medicine,36,21.8,17
+2025-11-14,Emergency,39,26.6,18
+2025-11-14,Cardiology,25,27.7,9
+2025-11-14,Orthopedics,36,24.9,10
+2025-11-14,Pediatrics,27,21.7,9
+2025-11-14,General Medicine,48,20.5,10
+2025-11-15,Emergency,29,20.4,11
+2025-11-15,Cardiology,25,24.9,9
+2025-11-15,Orthopedics,11,20.7,10
+2025-11-15,Pediatrics,23,26.6,18
+2025-11-15,General Medicine,42,27.9,9
+2025-11-16,Emergency,40,29.5,10
+2025-11-16,Cardiology,21,23.6,10
+2025-11-16,Orthopedics,23,25.7,9
+2025-11-16,Pediatrics,19,26.3,16
+2025-11-16,General Medicine,38,18.9,18
+2025-11-17,Emergency,30,28.3,18
+2025-11-17,Cardiology,21,28.1,17
+2025-11-17,Orthopedics,22,29.6,16
+2025-11-17,Pediatrics,13,17.9,17
+2025-11-17,General Medicine,35,23.9,17
+2025-11-18,Emergency,45,21.0,9
+2025-11-18,Cardiology,13,23.2,18
+2025-11-18,Orthopedics,11,25.1,9
+2025-11-18,Pediatrics,15,16.0,11
+2025-11-18,General Medicine,43,26.5,16
+2025-11-19,Emergency,37,32.7,11
+2025-11-19,Cardiology,11,25.8,17
+2025-11-19,Orthopedics,29,26.3,16
+2025-11-19,Pediatrics,20,32.2,9
+2025-11-19,General Medicine,41,27.8,11
+2025-11-20,Emergency,29,26.0,16
+2025-11-20,Cardiology,22,18.7,10
+2025-11-20,Orthopedics,10,14.6,9
+2025-11-20,Pediatrics,16,31.2,10
+2025-11-20,General Medicine,35,27.4,17
+2025-11-21,Emergency,33,26.2,11
+2025-11-21,Cardiology,18,27.3,11
+2025-11-21,Orthopedics,23,36.0,16
+2025-11-21,Pediatrics,27,24.4,18
+2025-11-21,General Medicine,41,26.2,17
+2025-11-22,Emergency,41,22.8,16
+2025-11-22,Cardiology,26,27.0,18
+2025-11-22,Orthopedics,28,22.7,11
+2025-11-22,Pediatrics,18,26.6,17
+2025-11-22,General Medicine,44,17.7,18
+2025-11-23,Emergency,47,32.8,16
+2025-11-23,Cardiology,13,6.0,18
+2025-11-23,Orthopedics,40,29.0,11
+2025-11-23,Pediatrics,23,15.3,11
+2025-11-23,General Medicine,47,27.9,10
+2025-11-24,Emergency,37,29.5,10
+2025-11-24,Cardiology,25,31.6,16
+2025-11-24,Orthopedics,17,28.4,10
+2025-11-24,Pediatrics,26,21.5,9
+2025-11-24,General Medicine,42,28.5,11
+2025-11-25,Emergency,33,20.6,18
+2025-11-25,Cardiology,23,15.2,10
+2025-11-25,Orthopedics,20,28.1,16
+2025-11-25,Pediatrics,13,12.4,18
+2025-11-25,General Medicine,43,26.6,17
+2025-11-26,Emergency,34,26.5,11
+2025-11-26,Cardiology,24,26.6,18
+2025-11-26,Orthopedics,26,25.2,18
+2025-11-26,Pediatrics,18,20.4,16
+2025-11-26,General Medicine,35,19.5,16
+2025-11-27,Emergency,32,20.6,11
+2025-11-27,Cardiology,22,23.1,10
+2025-11-27,Orthopedics,28,27.9,9
+2025-11-27,Pediatrics,14,23.8,11
+2025-11-27,General Medicine,33,24.9,10
+2025-11-28,Emergency,30,25.5,18
+2025-11-28,Cardiology,28,30.4,17
+2025-11-28,Orthopedics,25,11.5,18
+2025-11-28,Pediatrics,16,16.2,9
+2025-11-28,General Medicine,54,24.0,16
+2025-11-29,Emergency,41,35.1,18
+2025-11-29,Cardiology,24,32.4,17
+2025-11-29,Orthopedics,23,14.8,9
+2025-11-29,Pediatrics,18,19.4,18
+2025-11-29,General Medicine,48,19.7,11
+2025-11-30,Emergency,36,32.3,16
+2025-11-30,Cardiology,19,24.9,17
+2025-11-30,Orthopedics,28,15.7,9
+2025-11-30,Pediatrics,14,22.3,17
+2025-11-30,General Medicine,50,25.0,17
+2025-12-01,Emergency,40,28.0,10
+2025-12-01,Cardiology,29,22.2,9
+2025-12-01,Orthopedics,25,20.4,9
+2025-12-01,Pediatrics,15,19.2,17
+2025-12-01,General Medicine,36,13.9,11
+2025-12-02,Emergency,51,27.2,16
+2025-12-02,Cardiology,18,20.5,18
+2025-12-02,Orthopedics,16,24.4,11
+2025-12-02,Pediatrics,9,23.5,18
+2025-12-02,General Medicine,43,25.8,10
+2025-12-03,Emergency,39,17.9,11
+2025-12-03,Cardiology,18,31.2,10
+2025-12-03,Orthopedics,33,19.7,10
+2025-12-03,Pediatrics,20,18.1,16
+2025-12-03,General Medicine,49,27.2,18
+2025-12-04,Emergency,35,21.2,10
+2025-12-04,Cardiology,20,13.9,11
+2025-12-04,Orthopedics,26,21.1,17
+2025-12-04,Pediatrics,23,24.4,10
+2025-12-04,General Medicine,34,29.7,10
+2025-12-05,Emergency,50,31.1,17
+2025-12-05,Cardiology,19,26.3,11
+2025-12-05,Orthopedics,31,22.2,17
+2025-12-05,Pediatrics,15,19.1,10
+2025-12-05,General Medicine,47,35.8,17
+2025-12-06,Emergency,37,27.7,11
+2025-12-06,Cardiology,29,13.1,9
+2025-12-06,Orthopedics,21,11.0,9
+2025-12-06,Pediatrics,15,20.3,11
+2025-12-06,General Medicine,46,23.0,11
+2025-12-07,Emergency,46,23.2,10
+2025-12-07,Cardiology,26,22.6,11
+2025-12-07,Orthopedics,26,27.2,18
+2025-12-07,Pediatrics,21,21.6,16
+2025-12-07,General Medicine,38,29.8,17
+2025-12-08,Emergency,30,24.1,11
+2025-12-08,Cardiology,7,12.1,17
+2025-12-08,Orthopedics,32,26.5,18
+2025-12-08,Pediatrics,12,15.0,17
+2025-12-08,General Medicine,43,30.2,10
+2025-12-09,Emergency,37,26.9,10
+2025-12-09,Cardiology,25,15.4,16
+2025-12-09,Orthopedics,29,30.3,16
+2025-12-09,Pediatrics,7,20.0,18
+2025-12-09,General Medicine,53,32.2,17
+2025-12-10,Emergency,31,24.9,18
+2025-12-10,Cardiology,14,31.3,18
+2025-12-10,Orthopedics,30,20.0,11
+2025-12-10,Pediatrics,22,25.1,10
+2025-12-10,General Medicine,46,31.8,9
+2025-12-11,Emergency,38,17.4,9
+2025-12-11,Cardiology,17,15.3,17
+2025-12-11,Orthopedics,34,32.3,18
+2025-12-11,Pediatrics,27,24.0,10
+2025-12-11,General Medicine,36,27.9,16
+2025-12-12,Emergency,28,23.9,9
+2025-12-12,Cardiology,31,29.3,10
+2025-12-12,Orthopedics,25,23.7,16
+2025-12-12,Pediatrics,12,19.9,9
+2025-12-12,General Medicine,35,28.3,17
+2025-12-13,Emergency,30,24.0,16
+2025-12-13,Cardiology,30,29.7,10
+2025-12-13,Orthopedics,21,17.2,11
+2025-12-13,Pediatrics,23,29.5,16
+2025-12-13,General Medicine,47,22.1,11
+2025-12-14,Emergency,42,26.2,17
+2025-12-14,Cardiology,25,21.0,9
+2025-12-14,Orthopedics,28,22.2,17
+2025-12-14,Pediatrics,23,17.4,10
+2025-12-14,General Medicine,57,24.7,11
+2025-12-15,Emergency,25,23.6,11
+2025-12-15,Cardiology,20,28.5,17
+2025-12-15,Orthopedics,26,31.5,9
+2025-12-15,Pediatrics,17,18.0,17
+2025-12-15,General Medicine,41,34.2,17
+2025-12-16,Emergency,34,35.0,11
+2025-12-16,Cardiology,31,24.4,11
+2025-12-16,Orthopedics,26,39.6,16
+2025-12-16,Pediatrics,15,26.1,18
+2025-12-16,General Medicine,40,31.3,11
+2025-12-17,Emergency,38,26.4,10
+2025-12-17,Cardiology,23,13.4,18
+2025-12-17,Orthopedics,18,14.7,17
+2025-12-17,Pediatrics,19,18.7,10
+2025-12-17,General Medicine,35,23.7,11
+2025-12-18,Emergency,36,27.3,16
+2025-12-18,Cardiology,25,23.8,16
+2025-12-18,Orthopedics,12,20.6,10
+2025-12-18,Pediatrics,18,21.8,18
+2025-12-18,General Medicine,49,23.2,18
+2025-12-19,Emergency,30,26.0,11
+2025-12-19,Cardiology,18,9.5,18
+2025-12-19,Orthopedics,19,19.4,10
+2025-12-19,Pediatrics,19,20.6,18
+2025-12-19,General Medicine,39,22.3,10
+2025-12-20,Emergency,32,27.0,17
+2025-12-20,Cardiology,23,31.0,18
+2025-12-20,Orthopedics,39,25.5,9
+2025-12-20,Pediatrics,22,17.5,10
+2025-12-20,General Medicine,51,32.0,10
+2025-12-21,Emergency,47,34.1,18
+2025-12-21,Cardiology,18,24.6,10
+2025-12-21,Orthopedics,16,19.9,18
+2025-12-21,Pediatrics,22,20.0,16
+2025-12-21,General Medicine,60,30.4,16
+2025-12-22,Emergency,35,26.1,10
+2025-12-22,Cardiology,24,29.1,18
+2025-12-22,Orthopedics,26,26.7,10
+2025-12-22,Pediatrics,19,26.9,9
+2025-12-22,General Medicine,45,32.3,16
+2025-12-23,Emergency,44,29.1,16
+2025-12-23,Cardiology,23,8.4,17
+2025-12-23,Orthopedics,5,10.5,10
+2025-12-23,Pediatrics,22,17.0,9
+2025-12-23,General Medicine,52,27.0,16
+2025-12-24,Emergency,37,28.2,10
+2025-12-24,Cardiology,22,17.8,16
+2025-12-24,Orthopedics,24,16.5,10
+2025-12-24,Pediatrics,15,25.9,10
+2025-12-24,General Medicine,42,26.7,11
+2025-12-25,Emergency,41,22.0,17
+2025-12-25,Cardiology,28,22.1,16
+2025-12-25,Orthopedics,27,26.3,11
+2025-12-25,Pediatrics,21,26.3,18
+2025-12-25,General Medicine,48,21.5,18
+2025-12-26,Emergency,35,23.3,11
+2025-12-26,Cardiology,30,33.6,17
+2025-12-26,Orthopedics,24,25.0,17
+2025-12-26,Pediatrics,20,23.1,11
+2025-12-26,General Medicine,44,24.0,11
+2025-12-27,Emergency,46,28.1,9
+2025-12-27,Cardiology,28,22.3,17
+2025-12-27,Orthopedics,30,18.4,10
+2025-12-27,Pediatrics,19,13.9,10
+2025-12-27,General Medicine,43,27.7,10
+2025-12-28,Emergency,40,29.9,17
+2025-12-28,Cardiology,26,25.8,16
+2025-12-28,Orthopedics,15,19.5,16
+2025-12-28,Pediatrics,22,22.8,11
+2025-12-28,General Medicine,57,31.6,17
+2025-12-29,Emergency,40,24.2,18
+2025-12-29,Cardiology,27,21.2,18
+2025-12-29,Orthopedics,28,19.4,16
+2025-12-29,Pediatrics,24,23.8,11
+2025-12-29,General Medicine,39,23.9,18
+2025-12-30,Emergency,32,27.2,17
+2025-12-30,Cardiology,20,22.9,16
+2025-12-30,Orthopedics,16,28.9,17
+2025-12-30,Pediatrics,22,23.4,16
+2025-12-30,General Medicine,43,34.7,17
+2025-12-31,Emergency,44,24.5,9
+2025-12-31,Cardiology,15,23.6,17
+2025-12-31,Orthopedics,24,22.3,9
+2025-12-31,Pediatrics,18,14.0,10
+2025-12-31,General Medicine,46,34.7,16
+2026-01-01,Emergency,34,32.7,9
+2026-01-01,Cardiology,21,24.8,10
+2026-01-01,Orthopedics,25,21.5,9
+2026-01-01,Pediatrics,10,23.5,11
+2026-01-01,General Medicine,41,27.1,17
+2026-01-02,Emergency,39,23.3,18
+2026-01-02,Cardiology,21,30.5,17
+2026-01-02,Orthopedics,30,30.8,11
+2026-01-02,Pediatrics,23,26.1,17
+2026-01-02,General Medicine,38,29.9,17
+2026-01-03,Emergency,38,32.9,11
+2026-01-03,Cardiology,33,23.9,16
+2026-01-03,Orthopedics,26,24.2,18
+2026-01-03,Pediatrics,29,22.6,16
+2026-01-03,General Medicine,44,29.9,9
+2026-01-04,Emergency,38,25.2,9
+2026-01-04,Cardiology,23,31.9,10
+2026-01-04,Orthopedics,26,13.2,17
+2026-01-04,Pediatrics,21,19.2,9
+2026-01-04,General Medicine,49,35.2,10
+2026-01-05,Emergency,38,25.9,17
+2026-01-05,Cardiology,32,13.4,10
+2026-01-05,Orthopedics,21,22.7,9
+2026-01-05,Pediatrics,23,21.1,10
+2026-01-05,General Medicine,51,30.1,18
+2026-01-06,Emergency,40,24.0,11
+2026-01-06,Cardiology,22,22.8,18
+2026-01-06,Orthopedics,10,13.1,10
+2026-01-06,Pediatrics,18,20.7,17
+2026-01-06,General Medicine,39,22.3,17
+2026-01-07,Emergency,49,26.7,9
+2026-01-07,Cardiology,15,11.8,10
+2026-01-07,Orthopedics,19,21.8,17
+2026-01-07,Pediatrics,15,22.0,10
+2026-01-07,General Medicine,48,22.0,16
+2026-01-08,Emergency,33,28.4,9
+2026-01-08,Cardiology,14,19.5,17
+2026-01-08,Orthopedics,29,23.7,11
+2026-01-08,Pediatrics,26,22.4,9
+2026-01-08,General Medicine,57,40.3,10
+2026-01-09,Emergency,33,32.7,9
+2026-01-09,Cardiology,14,18.6,10
+2026-01-09,Orthopedics,24,20.0,11
+2026-01-09,Pediatrics,16,17.1,11
+2026-01-09,General Medicine,47,32.8,10
+2026-01-10,Emergency,42,23.7,9
+2026-01-10,Cardiology,16,12.5,16
+2026-01-10,Orthopedics,21,29.2,17
+2026-01-10,Pediatrics,30,26.7,18
+2026-01-10,General Medicine,46,30.7,11
+2026-01-11,Emergency,40,29.6,17
+2026-01-11,Cardiology,21,17.0,16
+2026-01-11,Orthopedics,29,26.0,16
+2026-01-11,Pediatrics,23,25.9,10
+2026-01-11,General Medicine,60,37.6,16
+2026-01-12,Emergency,49,26.1,11
+2026-01-12,Cardiology,22,20.8,18
+2026-01-12,Orthopedics,24,15.5,11
+2026-01-12,Pediatrics,29,20.4,17
+2026-01-12,General Medicine,41,23.9,11
+2026-01-13,Emergency,38,35.1,10
+2026-01-13,Cardiology,28,24.6,10
+2026-01-13,Orthopedics,22,22.6,10
+2026-01-13,Pediatrics,15,24.6,16
+2026-01-13,General Medicine,49,36.5,18
+2026-01-14,Emergency,36,27.8,16
+2026-01-14,Cardiology,22,19.8,17
+2026-01-14,Orthopedics,27,22.8,17
+2026-01-14,Pediatrics,7,9.5,11
+2026-01-14,General Medicine,46,29.4,11
+2026-01-15,Emergency,39,36.6,16
+2026-01-15,Cardiology,23,20.9,17
+2026-01-15,Orthopedics,12,21.9,18
+2026-01-15,Pediatrics,11,17.1,10
+2026-01-15,General Medicine,40,27.1,11
+2026-01-16,Emergency,23,26.1,16
+2026-01-16,Cardiology,21,10.2,16
+2026-01-16,Orthopedics,33,11.4,11
+2026-01-16,Pediatrics,13,24.9,17
+2026-01-16,General Medicine,48,31.4,18
+2026-01-17,Emergency,42,29.1,11
+2026-01-17,Cardiology,32,21.2,17
+2026-01-17,Orthopedics,28,16.3,9
+2026-01-17,Pediatrics,28,25.6,10
+2026-01-17,General Medicine,51,32.9,11
+2026-01-18,Emergency,37,30.5,11
+2026-01-18,Cardiology,28,33.5,9
+2026-01-18,Orthopedics,32,38.6,16
+2026-01-18,Pediatrics,18,24.1,9
+2026-01-18,General Medicine,49,23.6,18
+2026-01-19,Emergency,41,23.4,11
+2026-01-19,Cardiology,22,21.6,18
+2026-01-19,Orthopedics,18,23.7,17
+2026-01-19,Pediatrics,23,21.2,18
+2026-01-19,General Medicine,44,26.4,11
+2026-01-20,Emergency,45,19.2,11
+2026-01-20,Cardiology,20,24.3,18
+2026-01-20,Orthopedics,33,31.5,17
+2026-01-20,Pediatrics,11,24.6,18
+2026-01-20,General Medicine,37,26.0,17
+2026-01-21,Emergency,42,28.1,18
+2026-01-21,Cardiology,31,31.0,16
+2026-01-21,Orthopedics,24,22.5,11
+2026-01-21,Pediatrics,21,28.9,9
+2026-01-21,General Medicine,48,24.0,18
+2026-01-22,Emergency,48,25.8,10
+2026-01-22,Cardiology,11,29.7,10
+2026-01-22,Orthopedics,25,26.4,18
+2026-01-22,Pediatrics,27,22.3,10
+2026-01-22,General Medicine,44,24.8,16
+2026-01-23,Emergency,41,30.3,16
+2026-01-23,Cardiology,26,21.6,16
+2026-01-23,Orthopedics,16,27.8,11
+2026-01-23,Pediatrics,15,32.4,11
+2026-01-23,General Medicine,52,29.6,17
+2026-01-24,Emergency,43,29.4,11
+2026-01-24,Cardiology,26,19.2,11
+2026-01-24,Orthopedics,34,28.8,10
+2026-01-24,Pediatrics,21,18.0,9
+2026-01-24,General Medicine,43,28.6,16
+2026-01-25,Emergency,42,12.5,16
+2026-01-25,Cardiology,32,21.7,9
+2026-01-25,Orthopedics,21,29.8,16
+2026-01-25,Pediatrics,25,35.1,11
+2026-01-25,General Medicine,51,26.3,9
+2026-01-26,Emergency,43,26.9,17
+2026-01-26,Cardiology,31,24.2,18
+2026-01-26,Orthopedics,26,32.6,17
+2026-01-26,Pediatrics,26,20.1,11
+2026-01-26,General Medicine,50,33.9,16
+2026-01-27,Emergency,32,18.2,10
+2026-01-27,Cardiology,12,21.2,10
+2026-01-27,Orthopedics,26,12.4,18
+2026-01-27,Pediatrics,20,32.9,18
+2026-01-27,General Medicine,45,36.4,10
+2026-01-28,Emergency,43,28.0,17
+2026-01-28,Cardiology,27,19.9,11
+2026-01-28,Orthopedics,18,23.6,10
+2026-01-28,Pediatrics,17,21.6,16
+2026-01-28,General Medicine,41,25.3,16
+2026-01-29,Emergency,42,21.5,17
+2026-01-29,Cardiology,16,18.7,10
+2026-01-29,Orthopedics,34,27.1,11
+2026-01-29,Pediatrics,24,12.7,17
+2026-01-29,General Medicine,59,31.6,10
+2026-01-30,Emergency,43,31.9,11
+2026-01-30,Cardiology,13,21.9,18
+2026-01-30,Orthopedics,34,23.9,18
+2026-01-30,Pediatrics,13,7.1,18
+2026-01-30,General Medicine,46,26.0,11
+2026-01-31,Emergency,52,28.6,11
+2026-01-31,Cardiology,29,27.2,16
+2026-01-31,Orthopedics,35,19.9,9
+2026-01-31,Pediatrics,18,25.7,18
+2026-01-31,General Medicine,47,35.9,18
+2026-02-01,Emergency,50,30.2,10
+2026-02-01,Cardiology,34,24.3,11
+2026-02-01,Orthopedics,24,26.0,10
+2026-02-01,Pediatrics,14,17.5,18
+2026-02-01,General Medicine,51,22.3,17
+2026-02-02,Emergency,36,29.8,17
+2026-02-02,Cardiology,22,20.9,10
+2026-02-02,Orthopedics,21,16.9,10
+2026-02-02,Pediatrics,17,15.9,10
+2026-02-02,General Medicine,52,21.5,10
+2026-02-03,Emergency,39,28.3,11
+2026-02-03,Cardiology,14,14.8,9
+2026-02-03,Orthopedics,32,14.0,9
+2026-02-03,Pediatrics,28,23.4,17
+2026-02-03,General Medicine,43,26.9,17
+2026-02-04,Emergency,26,28.4,10
+2026-02-04,Cardiology,20,15.5,18
+2026-02-04,Orthopedics,25,19.9,18
+2026-02-04,Pediatrics,24,24.9,18
+2026-02-04,General Medicine,57,25.2,17
+2026-02-05,Emergency,47,34.7,10
+2026-02-05,Cardiology,21,29.4,10
+2026-02-05,Orthopedics,27,22.9,17
+2026-02-05,Pediatrics,23,21.8,10
+2026-02-05,General Medicine,48,25.2,11
+2026-02-06,Emergency,58,21.9,11
+2026-02-06,Cardiology,19,25.1,16
+2026-02-06,Orthopedics,31,30.7,18
+2026-02-06,Pediatrics,28,12.4,10
+2026-02-06,General Medicine,50,34.4,11
+2026-02-07,Emergency,40,27.5,10
+2026-02-07,Cardiology,28,29.6,17
+2026-02-07,Orthopedics,35,25.7,16
+2026-02-07,Pediatrics,15,23.8,17
+2026-02-07,General Medicine,51,32.5,10
+2026-02-08,Emergency,46,27.5,16
+2026-02-08,Cardiology,25,20.0,18
+2026-02-08,Orthopedics,37,28.8,17
+2026-02-08,Pediatrics,22,15.0,17
+2026-02-08,General Medicine,43,31.2,18
+2026-02-09,Emergency,55,24.6,16
+2026-02-09,Cardiology,34,31.4,9
+2026-02-09,Orthopedics,28,24.2,10
+2026-02-09,Pediatrics,17,21.3,18
+2026-02-09,General Medicine,49,31.0,17
+2026-02-10,Emergency,31,29.8,17
+2026-02-10,Cardiology,19,20.8,10
+2026-02-10,Orthopedics,20,19.7,16
+2026-02-10,Pediatrics,17,24.9,18
+2026-02-10,General Medicine,49,28.1,18
+2026-02-11,Emergency,37,18.3,18
+2026-02-11,Cardiology,20,16.2,16
+2026-02-11,Orthopedics,24,35.2,10
+2026-02-11,Pediatrics,22,17.2,17
+2026-02-11,General Medicine,49,17.2,16
+2026-02-12,Emergency,52,27.2,17
+2026-02-12,Cardiology,29,23.6,17
+2026-02-12,Orthopedics,13,24.1,10
+2026-02-12,Pediatrics,15,21.9,18
+2026-02-12,General Medicine,45,30.9,10
+2026-02-13,Emergency,47,21.4,9
+2026-02-13,Cardiology,35,31.3,10
+2026-02-13,Orthopedics,21,20.0,17
+2026-02-13,Pediatrics,21,22.2,16
+2026-02-13,General Medicine,47,21.1,11
+2026-02-14,Emergency,51,22.4,10
+2026-02-14,Cardiology,21,23.2,10
+2026-02-14,Orthopedics,39,29.1,11
+2026-02-14,Pediatrics,28,20.3,9
+2026-02-14,General Medicine,56,27.9,10
+2026-02-15,Emergency,41,23.9,10
+2026-02-15,Cardiology,23,28.6,16
+2026-02-15,Orthopedics,40,38.1,16
+2026-02-15,Pediatrics,24,17.4,17
+2026-02-15,General Medicine,50,23.7,11
+2026-02-16,Emergency,40,20.7,10
+2026-02-16,Cardiology,18,36.0,10
+2026-02-16,Orthopedics,25,21.2,17
+2026-02-16,Pediatrics,13,29.4,16
+2026-02-16,General Medicine,50,22.3,16
+2026-02-17,Emergency,34,32.8,9
+2026-02-17,Cardiology,24,11.1,18
+2026-02-17,Orthopedics,31,30.9,18
+2026-02-17,Pediatrics,12,22.1,10
+2026-02-17,General Medicine,39,26.5,11
+2026-02-18,Emergency,39,17.3,9
+2026-02-18,Cardiology,22,22.1,18
+2026-02-18,Orthopedics,24,23.1,11
+2026-02-18,Pediatrics,19,20.1,17
+2026-02-18,General Medicine,37,28.5,16
+2026-02-19,Emergency,41,31.8,18
+2026-02-19,Cardiology,12,22.0,10
+2026-02-19,Orthopedics,28,21.8,18
+2026-02-19,Pediatrics,27,26.4,16
+2026-02-19,General Medicine,36,29.8,10
+2026-02-20,Emergency,45,23.5,11
+2026-02-20,Cardiology,29,32.2,18
+2026-02-20,Orthopedics,25,27.2,10
+2026-02-20,Pediatrics,15,23.4,16
+2026-02-20,General Medicine,49,29.9,11
+2026-02-21,Emergency,55,25.6,11
+2026-02-21,Cardiology,27,28.3,18
+2026-02-21,Orthopedics,22,12.7,17
+2026-02-21,Pediatrics,17,19.8,11
+2026-02-21,General Medicine,51,30.4,10
+2026-02-22,Emergency,50,31.4,16
+2026-02-22,Cardiology,25,28.7,10
+2026-02-22,Orthopedics,22,26.1,11
+2026-02-22,Pediatrics,33,30.4,18
+2026-02-22,General Medicine,56,29.3,18
+2026-02-23,Emergency,39,27.8,10
+2026-02-23,Cardiology,20,19.3,16
+2026-02-23,Orthopedics,21,13.5,11
+2026-02-23,Pediatrics,32,32.2,10
+2026-02-23,General Medicine,53,36.8,17
+2026-02-24,Emergency,42,17.2,17
+2026-02-24,Cardiology,17,22.7,17
+2026-02-24,Orthopedics,30,29.7,11
+2026-02-24,Pediatrics,15,10.5,9
+2026-02-24,General Medicine,45,20.1,11
+2026-02-25,Emergency,39,21.2,18
+2026-02-25,Cardiology,30,27.6,9
+2026-02-25,Orthopedics,31,19.0,9
+2026-02-25,Pediatrics,22,20.5,18
+2026-02-25,General Medicine,44,30.2,9
+2026-02-26,Emergency,24,29.2,16
+2026-02-26,Cardiology,20,27.5,10
+2026-02-26,Orthopedics,18,16.5,17
+2026-02-26,Pediatrics,10,25.8,16
+2026-02-26,General Medicine,42,24.3,17
+2026-02-27,Emergency,47,32.0,10
+2026-02-27,Cardiology,21,18.3,17
+2026-02-27,Orthopedics,19,30.2,11
+2026-02-27,Pediatrics,15,17.9,16
+2026-02-27,General Medicine,41,27.5,17
+2026-02-28,Emergency,33,23.4,9
+2026-02-28,Cardiology,22,18.3,9
+2026-02-28,Orthopedics,42,27.5,10
+2026-02-28,Pediatrics,14,17.8,16
+2026-02-28,General Medicine,49,33.3,18
+2026-03-01,Emergency,45,25.0,18
+2026-03-01,Cardiology,23,21.7,10
+2026-03-01,Orthopedics,26,26.1,10
+2026-03-01,Pediatrics,24,21.1,11
+2026-03-01,General Medicine,54,28.3,9
+2026-03-02,Emergency,52,22.7,17
+2026-03-02,Cardiology,12,21.7,10
+2026-03-02,Orthopedics,30,25.5,17
+2026-03-02,Pediatrics,22,21.6,16
+2026-03-02,General Medicine,47,29.3,11
+2026-03-03,Emergency,37,19.3,17
+2026-03-03,Cardiology,27,25.1,16
+2026-03-03,Orthopedics,28,26.1,17
+2026-03-03,Pediatrics,21,20.0,18
+2026-03-03,General Medicine,47,25.0,16
+2026-03-04,Emergency,43,20.4,18
+2026-03-04,Cardiology,23,17.5,18
+2026-03-04,Orthopedics,31,18.5,18
+2026-03-04,Pediatrics,26,23.7,18
+2026-03-04,General Medicine,50,28.9,9
+2026-03-05,Emergency,45,30.3,16
+2026-03-05,Cardiology,19,22.8,16
+2026-03-05,Orthopedics,19,14.8,10
+2026-03-05,Pediatrics,6,20.3,16
+2026-03-05,General Medicine,57,28.1,11
+2026-03-06,Emergency,39,27.1,10
+2026-03-06,Cardiology,21,27.6,17
+2026-03-06,Orthopedics,29,29.0,11
+2026-03-06,Pediatrics,33,21.4,11
+2026-03-06,General Medicine,43,30.8,10
+2026-03-07,Emergency,47,22.7,9
+2026-03-07,Cardiology,19,28.0,10
+2026-03-07,Orthopedics,33,28.2,18
+2026-03-07,Pediatrics,13,17.8,17
+2026-03-07,General Medicine,47,37.0,10
+2026-03-08,Emergency,49,27.2,10
+2026-03-08,Cardiology,33,25.1,18
+2026-03-08,Orthopedics,29,22.7,9
+2026-03-08,Pediatrics,12,19.3,9
+2026-03-08,General Medicine,52,23.0,11
+2026-03-09,Emergency,42,16.5,11
+2026-03-09,Cardiology,26,25.7,10
+2026-03-09,Orthopedics,28,29.3,18
+2026-03-09,Pediatrics,21,20.3,11
+2026-03-09,General Medicine,52,30.4,18
+2026-03-10,Emergency,43,31.6,17
+2026-03-10,Cardiology,29,28.7,18
+2026-03-10,Orthopedics,16,29.2,17
+2026-03-10,Pediatrics,11,16.9,9
+2026-03-10,General Medicine,48,26.0,16
+2026-03-11,Emergency,35,21.7,10
+2026-03-11,Cardiology,26,26.2,11
+2026-03-11,Orthopedics,28,26.6,11
+2026-03-11,Pediatrics,22,23.4,18
+2026-03-11,General Medicine,54,32.7,16
+2026-03-12,Emergency,37,26.5,16
+2026-03-12,Cardiology,25,34.5,16
+2026-03-12,Orthopedics,30,29.9,10
+2026-03-12,Pediatrics,36,24.0,18
+2026-03-12,General Medicine,45,26.1,16
+2026-03-13,Emergency,47,29.9,16
+2026-03-13,Cardiology,23,21.4,9
+2026-03-13,Orthopedics,30,21.0,9
+2026-03-13,Pediatrics,16,26.2,9
+2026-03-13,General Medicine,50,28.7,17
+2026-03-14,Emergency,42,21.9,18
+2026-03-14,Cardiology,31,26.5,16
+2026-03-14,Orthopedics,35,22.0,10
+2026-03-14,Pediatrics,19,28.7,16
+2026-03-14,General Medicine,59,37.2,9
+2026-03-15,Emergency,37,22.4,11
+2026-03-15,Cardiology,22,17.5,11
+2026-03-15,Orthopedics,23,24.7,10
+2026-03-15,Pediatrics,27,26.5,9
+2026-03-15,General Medicine,53,40.3,17
+2026-03-16,Emergency,31,19.8,17
+2026-03-16,Cardiology,24,22.7,11
+2026-03-16,Orthopedics,39,29.3,10
+2026-03-16,Pediatrics,16,16.5,10
+2026-03-16,General Medicine,51,19.9,10
+2026-03-17,Emergency,42,26.2,11
+2026-03-17,Cardiology,21,21.7,11
+2026-03-17,Orthopedics,31,30.2,16
+2026-03-17,Pediatrics,19,24.4,9
+2026-03-17,General Medicine,47,32.3,18
+2026-03-18,Emergency,50,37.9,16
+2026-03-18,Cardiology,24,23.3,16
+2026-03-18,Orthopedics,24,15.9,16
+2026-03-18,Pediatrics,17,22.2,18
+2026-03-18,General Medicine,43,28.6,16
+2026-03-19,Emergency,45,38.8,17
+2026-03-19,Cardiology,27,18.6,11
+2026-03-19,Orthopedics,37,21.5,9
+2026-03-19,Pediatrics,22,22.4,10
+2026-03-19,General Medicine,48,34.7,17
+2026-03-20,Emergency,34,30.2,10
+2026-03-20,Cardiology,20,14.5,9
+2026-03-20,Orthopedics,27,29.8,18
+2026-03-20,Pediatrics,21,26.0,16
+2026-03-20,General Medicine,56,24.4,16
+2026-03-21,Emergency,49,34.2,18
+2026-03-21,Cardiology,13,16.9,11
+2026-03-21,Orthopedics,30,27.0,10
+2026-03-21,Pediatrics,28,23.1,16
+2026-03-21,General Medicine,53,31.7,9
+2026-03-22,Emergency,51,33.8,10
+2026-03-22,Cardiology,9,13.6,10
+2026-03-22,Orthopedics,28,14.2,16
+2026-03-22,Pediatrics,25,29.0,10
+2026-03-22,General Medicine,59,32.8,18
+2026-03-23,Emergency,56,35.2,9
+2026-03-23,Cardiology,27,29.6,17
+2026-03-23,Orthopedics,25,29.3,9
+2026-03-23,Pediatrics,37,22.4,9
+2026-03-23,General Medicine,48,26.1,18
+2026-03-24,Emergency,25,21.3,11
+2026-03-24,Cardiology,21,32.3,16
+2026-03-24,Orthopedics,35,27.0,17
+2026-03-24,Pediatrics,24,30.1,18
+2026-03-24,General Medicine,53,31.5,10
+2026-03-25,Emergency,44,38.9,16
+2026-03-25,Cardiology,27,30.2,11
+2026-03-25,Orthopedics,28,12.2,10
+2026-03-25,Pediatrics,9,27.3,10
+2026-03-25,General Medicine,56,25.8,10
+2026-03-26,Emergency,44,27.5,9
+2026-03-26,Cardiology,25,37.3,9
+2026-03-26,Orthopedics,34,29.7,16
+2026-03-26,Pediatrics,21,12.3,9
+2026-03-26,General Medicine,55,25.3,10
+2026-03-27,Emergency,38,33.9,16
+2026-03-27,Cardiology,28,27.3,17
+2026-03-27,Orthopedics,29,18.5,10
+2026-03-27,Pediatrics,23,24.7,11
+2026-03-27,General Medicine,59,38.8,18
+2026-03-28,Emergency,45,30.3,16
+2026-03-28,Cardiology,36,31.5,16
+2026-03-28,Orthopedics,26,27.7,10
+2026-03-28,Pediatrics,23,22.5,9
+2026-03-28,General Medicine,54,17.7,9
+2026-03-29,Emergency,43,27.7,17
+2026-03-29,Cardiology,25,27.5,16
+2026-03-29,Orthopedics,28,27.6,18
+2026-03-29,Pediatrics,15,24.6,11
+2026-03-29,General Medicine,56,20.5,10
+2026-03-30,Emergency,32,26.6,16
+2026-03-30,Cardiology,17,19.5,11
+2026-03-30,Orthopedics,24,26.2,17
+2026-03-30,Pediatrics,28,25.6,17
+2026-03-30,General Medicine,45,19.7,10
+2026-03-31,Emergency,40,14.9,17
+2026-03-31,Cardiology,19,30.1,10
+2026-03-31,Orthopedics,19,27.7,16
+2026-03-31,Pediatrics,17,18.6,11
+2026-03-31,General Medicine,36,16.6,16
+2026-04-01,Emergency,51,27.0,10
+2026-04-01,Cardiology,31,35.4,18
+2026-04-01,Orthopedics,27,33.1,9
+2026-04-01,Pediatrics,28,19.1,11
+2026-04-01,General Medicine,48,23.8,9
+2026-04-02,Emergency,32,20.1,11
+2026-04-02,Cardiology,30,24.0,18
+2026-04-02,Orthopedics,31,20.0,10
+2026-04-02,Pediatrics,27,37.0,9
+2026-04-02,General Medicine,47,32.2,17
+2026-04-03,Emergency,39,24.6,18
+2026-04-03,Cardiology,19,20.1,17
+2026-04-03,Orthopedics,33,22.2,9
+2026-04-03,Pediatrics,10,13.9,17
+2026-04-03,General Medicine,49,22.8,16
+2026-04-04,Emergency,43,25.3,16
+2026-04-04,Cardiology,31,24.9,18
+2026-04-04,Orthopedics,28,25.8,18
+2026-04-04,Pediatrics,19,22.4,16
+2026-04-04,General Medicine,57,34.4,9
+2026-04-05,Emergency,58,26.4,17
+2026-04-05,Cardiology,27,23.4,16
+2026-04-05,Orthopedics,31,29.1,11
+2026-04-05,Pediatrics,25,27.6,10
+2026-04-05,General Medicine,61,27.6,16
+2026-04-06,Emergency,55,29.5,18
+2026-04-06,Cardiology,21,28.8,9
+2026-04-06,Orthopedics,29,29.4,9
+2026-04-06,Pediatrics,29,29.0,17
+2026-04-06,General Medicine,52,34.0,11
+2026-04-07,Emergency,38,34.9,17
+2026-04-07,Cardiology,29,25.0,16
+2026-04-07,Orthopedics,28,31.3,16
+2026-04-07,Pediatrics,12,19.6,18
+2026-04-07,General Medicine,49,19.8,9
+2026-04-08,Emergency,46,27.8,11
+2026-04-08,Cardiology,31,22.1,11
+2026-04-08,Orthopedics,31,26.0,18
+2026-04-08,Pediatrics,21,27.8,18
+2026-04-08,General Medicine,40,29.9,18
+2026-04-09,Emergency,45,29.9,17
+2026-04-09,Cardiology,29,24.2,9
+2026-04-09,Orthopedics,26,33.8,10
+2026-04-09,Pediatrics,25,15.1,18
+2026-04-09,General Medicine,47,17.9,17
+2026-04-10,Emergency,40,16.3,10
+2026-04-10,Cardiology,33,32.7,18
+2026-04-10,Orthopedics,28,30.8,10
+2026-04-10,Pediatrics,29,19.7,11
+2026-04-10,General Medicine,52,20.4,10
+2026-04-11,Emergency,61,34.6,16
+2026-04-11,Cardiology,28,23.8,16
+2026-04-11,Orthopedics,26,18.9,10
+2026-04-11,Pediatrics,33,20.3,17
+2026-04-11,General Medicine,55,31.8,18
+2026-04-12,Emergency,53,30.1,17
+2026-04-12,Cardiology,29,27.5,18
+2026-04-12,Orthopedics,44,30.0,17
+2026-04-12,Pediatrics,15,17.2,18
+2026-04-12,General Medicine,58,21.2,9
+2026-04-13,Emergency,39,33.6,11
+2026-04-13,Cardiology,25,29.4,16
+2026-04-13,Orthopedics,21,21.6,9
+2026-04-13,Pediatrics,14,12.7,16
+2026-04-13,General Medicine,46,26.2,11
+2026-04-14,Emergency,38,26.3,11
+2026-04-14,Cardiology,19,30.5,11
+2026-04-14,Orthopedics,23,30.7,10
+2026-04-14,Pediatrics,19,21.4,17
+2026-04-14,General Medicine,59,26.9,10
+2026-04-15,Emergency,42,22.3,11
+2026-04-15,Cardiology,24,29.0,18
+2026-04-15,Orthopedics,32,31.1,9
+2026-04-15,Pediatrics,21,25.9,17
+2026-04-15,General Medicine,53,29.2,17
+2026-04-16,Emergency,36,33.2,18
+2026-04-16,Cardiology,34,22.9,17
+2026-04-16,Orthopedics,42,22.0,10
+2026-04-16,Pediatrics,23,29.5,10
+2026-04-16,General Medicine,50,26.1,9
+2026-04-17,Emergency,36,25.0,17
+2026-04-17,Cardiology,18,18.5,10
+2026-04-17,Orthopedics,19,20.1,10
+2026-04-17,Pediatrics,19,20.8,9
+2026-04-17,General Medicine,46,31.6,11
+2026-04-18,Emergency,44,30.1,10
+2026-04-18,Cardiology,29,32.2,16
+2026-04-18,Orthopedics,20,24.7,10
+2026-04-18,Pediatrics,23,28.0,17
+2026-04-18,General Medicine,47,29.0,16
+2026-04-19,Emergency,45,34.3,17
+2026-04-19,Cardiology,19,17.0,18
+2026-04-19,Orthopedics,29,31.4,17
+2026-04-19,Pediatrics,27,24.7,17
+2026-04-19,General Medicine,50,33.3,11
+2026-04-20,Emergency,47,34.3,11
+2026-04-20,Cardiology,23,25.1,18
+2026-04-20,Orthopedics,29,23.8,18
+2026-04-20,Pediatrics,26,23.3,11
+2026-04-20,General Medicine,49,29.1,10
+2026-04-21,Emergency,43,32.7,9
+2026-04-21,Cardiology,25,29.9,10
+2026-04-21,Orthopedics,28,21.2,16
+2026-04-21,Pediatrics,16,20.7,17
+2026-04-21,General Medicine,42,21.4,18
+2026-04-22,Emergency,52,27.1,16
+2026-04-22,Cardiology,22,18.1,17
+2026-04-22,Orthopedics,42,34.2,9
+2026-04-22,Pediatrics,26,19.6,10
+2026-04-22,General Medicine,56,36.1,10
+2026-04-23,Emergency,39,25.7,18
+2026-04-23,Cardiology,18,23.9,9
+2026-04-23,Orthopedics,18,22.5,16
+2026-04-23,Pediatrics,15,24.5,10
+2026-04-23,General Medicine,54,34.2,18
+2026-04-24,Emergency,32,22.4,11
+2026-04-24,Cardiology,21,19.1,17
+2026-04-24,Orthopedics,38,30.5,11
+2026-04-24,Pediatrics,28,27.0,17
+2026-04-24,General Medicine,49,26.6,11
+2026-04-25,Emergency,50,26.7,11
+2026-04-25,Cardiology,21,30.1,10
+2026-04-25,Orthopedics,34,30.8,9
+2026-04-25,Pediatrics,25,23.6,11
+2026-04-25,General Medicine,52,27.2,11
+2026-04-26,Emergency,46,24.2,17
+2026-04-26,Cardiology,33,28.6,11
+2026-04-26,Orthopedics,29,27.2,9
+2026-04-26,Pediatrics,23,27.9,11
+2026-04-26,General Medicine,50,24.7,9
+2026-04-27,Emergency,52,19.9,9
+2026-04-27,Cardiology,16,18.3,10
+2026-04-27,Orthopedics,25,20.8,9
+2026-04-27,Pediatrics,18,14.6,16
+2026-04-27,General Medicine,54,34.1,10
+2026-04-28,Emergency,43,30.8,9
+2026-04-28,Cardiology,24,22.7,18
+2026-04-28,Orthopedics,39,18.3,18
+2026-04-28,Pediatrics,16,26.4,10
+2026-04-28,General Medicine,43,29.9,11
+2026-04-29,Emergency,45,29.1,18
+2026-04-29,Cardiology,24,22.4,18
+2026-04-29,Orthopedics,31,28.5,16
+2026-04-29,Pediatrics,15,18.5,16
+2026-04-29,General Medicine,54,34.8,10
+2026-04-30,Emergency,50,35.8,9
+2026-04-30,Cardiology,19,30.1,9
+2026-04-30,Orthopedics,28,22.5,9
+2026-04-30,Pediatrics,13,24.0,16
+2026-04-30,General Medicine,68,27.5,16
+2026-05-01,Emergency,45,35.5,18
+2026-05-01,Cardiology,27,14.7,11
+2026-05-01,Orthopedics,21,13.1,9
+2026-05-01,Pediatrics,8,13.1,17
+2026-05-01,General Medicine,44,29.7,11
+2026-05-02,Emergency,52,33.2,18
+2026-05-02,Cardiology,27,25.5,17
+2026-05-02,Orthopedics,31,22.8,16
+2026-05-02,Pediatrics,19,24.3,9
+2026-05-02,General Medicine,51,25.9,9
+2026-05-03,Emergency,52,29.8,16
+2026-05-03,Cardiology,32,22.2,16
+2026-05-03,Orthopedics,36,23.2,17
+2026-05-03,Pediatrics,24,29.0,16
+2026-05-03,General Medicine,48,31.3,17
+2026-05-04,Emergency,53,29.7,16
+2026-05-04,Cardiology,26,33.4,16
+2026-05-04,Orthopedics,38,21.3,9
+2026-05-04,Pediatrics,17,22.9,16
+2026-05-04,General Medicine,45,24.5,11
+2026-05-05,Emergency,46,29.5,11
+2026-05-05,Cardiology,22,19.1,18
+2026-05-05,Orthopedics,34,30.8,16
+2026-05-05,Pediatrics,5,10.3,9
+2026-05-05,General Medicine,47,24.6,9
+2026-05-06,Emergency,49,28.9,10
+2026-05-06,Cardiology,23,24.2,17
+2026-05-06,Orthopedics,30,28.2,18
+2026-05-06,Pediatrics,14,24.9,10
+2026-05-06,General Medicine,47,15.8,11
+2026-05-07,Emergency,35,28.4,10
+2026-05-07,Cardiology,25,33.3,16
+2026-05-07,Orthopedics,27,25.5,9
+2026-05-07,Pediatrics,22,14.8,18
+2026-05-07,General Medicine,45,38.1,9
+2026-05-08,Emergency,47,28.1,11
+2026-05-08,Cardiology,20,23.0,11
+2026-05-08,Orthopedics,22,22.2,18
+2026-05-08,Pediatrics,35,25.3,9
+2026-05-08,General Medicine,48,29.9,16
+2026-05-09,Emergency,43,28.5,10
+2026-05-09,Cardiology,28,31.1,11
+2026-05-09,Orthopedics,40,26.5,11
+2026-05-09,Pediatrics,21,18.8,10
+2026-05-09,General Medicine,69,37.3,9
+2026-05-10,Emergency,54,33.3,17
+2026-05-10,Cardiology,17,20.4,11
+2026-05-10,Orthopedics,18,27.3,10
+2026-05-10,Pediatrics,28,36.0,17
+2026-05-10,General Medicine,52,30.0,11
+2026-05-11,Emergency,38,23.2,16
+2026-05-11,Cardiology,26,13.5,18
+2026-05-11,Orthopedics,36,27.9,9
+2026-05-11,Pediatrics,20,22.5,18
+2026-05-11,General Medicine,41,22.8,17
+2026-05-12,Emergency,40,29.7,11
+2026-05-12,Cardiology,26,29.2,18
+2026-05-12,Orthopedics,28,23.7,17
+2026-05-12,Pediatrics,21,28.9,16
+2026-05-12,General Medicine,43,25.0,10
+2026-05-13,Emergency,39,29.0,11
+2026-05-13,Cardiology,29,31.5,10
+2026-05-13,Orthopedics,21,18.1,10
+2026-05-13,Pediatrics,19,16.5,11
+2026-05-13,General Medicine,46,24.8,9
+2026-05-14,Emergency,48,29.6,18
+2026-05-14,Cardiology,24,21.8,11
+2026-05-14,Orthopedics,28,26.3,18
+2026-05-14,Pediatrics,16,25.8,16
+2026-05-14,General Medicine,39,30.4,18
+2026-05-15,Emergency,36,25.9,16
+2026-05-15,Cardiology,16,26.8,10
+2026-05-15,Orthopedics,20,23.5,9
+2026-05-15,Pediatrics,18,25.7,18
+2026-05-15,General Medicine,43,28.2,17
+2026-05-16,Emergency,53,26.3,9
+2026-05-16,Cardiology,22,32.0,16
+2026-05-16,Orthopedics,38,23.1,17
+2026-05-16,Pediatrics,27,18.9,9
+2026-05-16,General Medicine,59,36.2,9
+2026-05-17,Emergency,46,31.9,10
+2026-05-17,Cardiology,18,17.9,9
+2026-05-17,Orthopedics,37,34.2,18
+2026-05-17,Pediatrics,26,27.5,10
+2026-05-17,General Medicine,53,25.5,17
+2026-05-18,Emergency,43,28.4,16
+2026-05-18,Cardiology,27,25.2,18
+2026-05-18,Orthopedics,26,25.8,18
+2026-05-18,Pediatrics,23,26.4,11
+2026-05-18,General Medicine,49,25.7,9
+2026-05-19,Emergency,34,31.8,17
+2026-05-19,Cardiology,27,33.8,10
+2026-05-19,Orthopedics,45,26.8,10
+2026-05-19,Pediatrics,19,24.0,17
+2026-05-19,General Medicine,47,37.2,10
+2026-05-20,Emergency,42,22.7,10
+2026-05-20,Cardiology,22,19.8,11
+2026-05-20,Orthopedics,43,26.1,9
+2026-05-20,Pediatrics,17,21.5,18
+2026-05-20,General Medicine,51,32.6,11
+2026-05-21,Emergency,43,23.1,18
+2026-05-21,Cardiology,18,16.0,16
+2026-05-21,Orthopedics,31,29.7,18
+2026-05-21,Pediatrics,26,14.9,16
+2026-05-21,General Medicine,49,31.9,9
+2026-05-22,Emergency,35,18.2,11
+2026-05-22,Cardiology,27,27.4,9
+2026-05-22,Orthopedics,21,19.0,11
+2026-05-22,Pediatrics,13,13.7,10
+2026-05-22,General Medicine,48,22.7,10
+2026-05-23,Emergency,52,22.9,17
+2026-05-23,Cardiology,32,22.9,17
+2026-05-23,Orthopedics,37,24.6,11
+2026-05-23,Pediatrics,26,22.0,9
+2026-05-23,General Medicine,56,35.4,10
+2026-05-24,Emergency,45,27.6,11
+2026-05-24,Cardiology,20,27.5,11
+2026-05-24,Orthopedics,22,28.9,16
+2026-05-24,Pediatrics,30,31.7,17
+2026-05-24,General Medicine,44,18.5,9
+2026-05-25,Emergency,37,21.6,10
+2026-05-25,Cardiology,27,16.7,9
+2026-05-25,Orthopedics,35,20.3,18
+2026-05-25,Pediatrics,18,24.7,16
+2026-05-25,General Medicine,52,34.0,17
+2026-05-26,Emergency,47,24.1,11
+2026-05-26,Cardiology,25,25.9,17
+2026-05-26,Orthopedics,21,15.9,18
+2026-05-26,Pediatrics,22,28.6,16
+2026-05-26,General Medicine,39,31.4,10
+2026-05-27,Emergency,42,24.0,11
+2026-05-27,Cardiology,18,20.3,18
+2026-05-27,Orthopedics,20,24.1,11
+2026-05-27,Pediatrics,18,23.9,9
+2026-05-27,General Medicine,47,26.8,17
+2026-05-28,Emergency,47,26.7,11
+2026-05-28,Cardiology,21,13.0,9
+2026-05-28,Orthopedics,32,14.5,11
+2026-05-28,Pediatrics,18,30.7,17
+2026-05-28,General Medicine,44,34.2,11
+2026-05-29,Emergency,46,21.3,11
+2026-05-29,Cardiology,21,17.5,17
+2026-05-29,Orthopedics,28,21.7,18
+2026-05-29,Pediatrics,17,24.8,10
+2026-05-29,General Medicine,47,26.1,9
+2026-05-30,Emergency,48,38.9,18
+2026-05-30,Cardiology,32,40.5,18
+2026-05-30,Orthopedics,32,28.6,17
+2026-05-30,Pediatrics,21,20.1,11
+2026-05-30,General Medicine,52,30.1,17
+2026-05-31,Emergency,50,28.2,17
+2026-05-31,Cardiology,32,28.9,9
+2026-05-31,Orthopedics,27,24.8,9
+2026-05-31,Pediatrics,29,25.8,18
+2026-05-31,General Medicine,53,26.3,16
+2026-06-01,Emergency,40,26.6,9
+2026-06-01,Cardiology,20,22.7,16
+2026-06-01,Orthopedics,25,25.9,10
+2026-06-01,Pediatrics,11,18.7,9
+2026-06-01,General Medicine,57,34.5,11
+2026-06-02,Emergency,38,27.6,10
+2026-06-02,Cardiology,26,19.1,18
+2026-06-02,Orthopedics,28,28.3,16
+2026-06-02,Pediatrics,19,8.7,10
+2026-06-02,General Medicine,55,27.5,11
+2026-06-03,Emergency,41,26.7,16
+2026-06-03,Cardiology,24,18.6,9
+2026-06-03,Orthopedics,18,22.1,11
+2026-06-03,Pediatrics,22,23.5,11
+2026-06-03,General Medicine,38,19.0,16
+2026-06-04,Emergency,40,23.8,18
+2026-06-04,Cardiology,21,17.8,18
+2026-06-04,Orthopedics,27,25.6,11
+2026-06-04,Pediatrics,17,21.4,10
+2026-06-04,General Medicine,47,25.8,16
+2026-06-05,Emergency,36,20.6,18
+2026-06-05,Cardiology,18,16.7,16
+2026-06-05,Orthopedics,29,19.9,11
+2026-06-05,Pediatrics,9,17.5,18
+2026-06-05,General Medicine,52,25.9,17
+2026-06-06,Emergency,35,19.5,17
+2026-06-06,Cardiology,35,28.2,16
+2026-06-06,Orthopedics,20,22.2,18
+2026-06-06,Pediatrics,11,21.1,17
+2026-06-06,General Medicine,46,28.4,11
+2026-06-07,Emergency,50,29.7,16
+2026-06-07,Cardiology,25,22.9,17
+2026-06-07,Orthopedics,23,37.1,17
+2026-06-07,Pediatrics,25,26.1,18
+2026-06-07,General Medicine,57,22.5,18
+2026-06-08,Emergency,37,26.7,16
+2026-06-08,Cardiology,26,20.5,17
+2026-06-08,Orthopedics,24,32.9,9
+2026-06-08,Pediatrics,21,22.9,11
+2026-06-08,General Medicine,53,28.0,17
+2026-06-09,Emergency,45,25.2,9
+2026-06-09,Cardiology,13,24.4,17
+2026-06-09,Orthopedics,30,31.9,16
+2026-06-09,Pediatrics,22,18.1,18
+2026-06-09,General Medicine,51,29.7,10
+2026-06-10,Emergency,31,17.9,16
+2026-06-10,Cardiology,35,32.5,18
+2026-06-10,Orthopedics,34,30.2,11
+2026-06-10,Pediatrics,19,27.7,17
+2026-06-10,General Medicine,39,29.6,16
+2026-06-11,Emergency,38,32.0,16
+2026-06-11,Cardiology,19,26.6,18
+2026-06-11,Orthopedics,33,29.6,16
+2026-06-11,Pediatrics,25,24.8,17
+2026-06-11,General Medicine,45,21.8,11
+2026-06-12,Emergency,37,27.3,17
+2026-06-12,Cardiology,22,27.9,9
+2026-06-12,Orthopedics,24,26.3,11
+2026-06-12,Pediatrics,28,27.3,17
+2026-06-12,General Medicine,47,36.6,17
+2026-06-13,Emergency,46,30.8,11
+2026-06-13,Cardiology,28,17.2,9
+2026-06-13,Orthopedics,35,27.5,11
+2026-06-13,Pediatrics,25,23.2,16
+2026-06-13,General Medicine,56,26.7,9
+2026-06-14,Emergency,42,19.3,10
+2026-06-14,Cardiology,34,27.4,11
+2026-06-14,Orthopedics,19,21.6,16
+2026-06-14,Pediatrics,22,29.4,10
+2026-06-14,General Medicine,55,23.4,16
+2026-06-15,Emergency,37,30.5,17
+2026-06-15,Cardiology,23,24.8,18
+2026-06-15,Orthopedics,28,22.8,10
+2026-06-15,Pediatrics,30,29.8,16
+2026-06-15,General Medicine,49,25.1,9
+2026-06-16,Emergency,45,19.4,17
+2026-06-16,Cardiology,21,21.6,9
+2026-06-16,Orthopedics,29,20.2,9
+2026-06-16,Pediatrics,21,16.3,11
+2026-06-16,General Medicine,54,38.3,10
+2026-06-17,Emergency,31,27.3,10
+2026-06-17,Cardiology,27,27.9,10
+2026-06-17,Orthopedics,25,20.5,10
+2026-06-17,Pediatrics,22,23.8,17
+2026-06-17,General Medicine,38,29.6,10
+2026-06-18,Emergency,39,26.3,16
+2026-06-18,Cardiology,34,20.4,10
+2026-06-18,Orthopedics,20,19.7,18
+2026-06-18,Pediatrics,28,33.2,10
+2026-06-18,General Medicine,43,39.9,10
+2026-06-19,Emergency,35,16.8,10
+2026-06-19,Cardiology,28,36.2,18
+2026-06-19,Orthopedics,34,25.8,9
+2026-06-19,Pediatrics,10,27.5,16
+2026-06-19,General Medicine,45,31.1,10
+2026-06-20,Emergency,40,24.5,11
+2026-06-20,Cardiology,26,14.5,16
+2026-06-20,Orthopedics,35,22.2,10
+2026-06-20,Pediatrics,21,24.3,11
+2026-06-20,General Medicine,46,33.4,17
+2026-06-21,Emergency,55,30.3,18
+2026-06-21,Cardiology,32,28.2,17
+2026-06-21,Orthopedics,35,22.4,16
+2026-06-21,Pediatrics,21,16.2,11
+2026-06-21,General Medicine,59,32.2,18
+2026-06-22,Emergency,29,32.7,17
+2026-06-22,Cardiology,18,20.6,16
+2026-06-22,Orthopedics,34,23.5,18
+2026-06-22,Pediatrics,20,29.5,17
+2026-06-22,General Medicine,50,32.6,10
+2026-06-23,Emergency,40,25.6,9
+2026-06-23,Cardiology,16,21.5,18
+2026-06-23,Orthopedics,27,21.8,9
+2026-06-23,Pediatrics,19,14.3,17
+2026-06-23,General Medicine,39,17.9,10
+2026-06-24,Emergency,41,29.7,10
+2026-06-24,Cardiology,10,13.4,9
+2026-06-24,Orthopedics,19,25.2,17
+2026-06-24,Pediatrics,20,19.2,17
+2026-06-24,General Medicine,46,25.9,18
+2026-06-25,Emergency,40,20.7,17
+2026-06-25,Cardiology,38,33.1,9
+2026-06-25,Orthopedics,24,13.6,9
+2026-06-25,Pediatrics,27,20.0,10
+2026-06-25,General Medicine,44,22.4,18
+2026-06-26,Emergency,38,21.9,17
+2026-06-26,Cardiology,17,24.4,9
+2026-06-26,Orthopedics,24,26.3,17
+2026-06-26,Pediatrics,18,24.3,11
+2026-06-26,General Medicine,44,28.1,10
+2026-06-27,Emergency,37,30.0,9
+2026-06-27,Cardiology,27,25.3,16
+2026-06-27,Orthopedics,32,29.7,16
+2026-06-27,Pediatrics,22,29.8,9
+2026-06-27,General Medicine,54,31.3,11
+2026-06-28,Emergency,38,29.9,18
+2026-06-28,Cardiology,22,23.2,16
+2026-06-28,Orthopedics,25,31.2,16
+2026-06-28,Pediatrics,19,14.2,18
+2026-06-28,General Medicine,40,30.0,16
+2026-06-29,Emergency,35,17.4,10
+2026-06-29,Cardiology,17,28.2,9
+2026-06-29,Orthopedics,21,21.7,17
+2026-06-29,Pediatrics,18,19.5,16
+2026-06-29,General Medicine,44,21.3,17
+2026-06-30,Emergency,27,21.7,11
+2026-06-30,Cardiology,23,26.0,11
+2026-06-30,Orthopedics,32,29.7,17
+2026-06-30,Pediatrics,25,27.3,9
+2026-06-30,General Medicine,37,28.2,17
+2026-07-01,Emergency,44,23.0,11
+2026-07-01,Cardiology,24,22.9,16
+2026-07-01,Orthopedics,27,14.7,10
+2026-07-01,Pediatrics,28,33.3,18
+2026-07-01,General Medicine,43,27.7,18
+2026-07-02,Emergency,35,23.3,17
+2026-07-02,Cardiology,19,25.8,11
+2026-07-02,Orthopedics,23,14.8,18
+2026-07-02,Pediatrics,25,23.3,10
+2026-07-02,General Medicine,40,25.7,16
+2026-07-03,Emergency,43,14.3,11
+2026-07-03,Cardiology,22,22.3,10
+2026-07-03,Orthopedics,26,22.2,17
+2026-07-03,Pediatrics,18,27.7,17
+2026-07-03,General Medicine,44,28.6,17
+2026-07-04,Emergency,40,31.6,18
+2026-07-04,Cardiology,24,22.2,11
+2026-07-04,Orthopedics,26,28.0,17
+2026-07-04,Pediatrics,23,17.4,18
+2026-07-04,General Medicine,63,31.0,10
+2026-07-05,Emergency,50,30.4,17
+2026-07-05,Cardiology,23,21.5,16
+2026-07-05,Orthopedics,19,21.7,9
+2026-07-05,Pediatrics,33,25.7,11
+2026-07-05,General Medicine,49,42.5,9
+2026-07-06,Emergency,32,28.0,10
+2026-07-06,Cardiology,13,19.1,18
+2026-07-06,Orthopedics,13,15.1,18
+2026-07-06,Pediatrics,17,23.7,18
+2026-07-06,General Medicine,48,22.6,9
+2026-07-07,Emergency,27,18.5,18
+2026-07-07,Cardiology,31,26.4,11
+2026-07-07,Orthopedics,24,18.1,10
+2026-07-07,Pediatrics,12,14.2,16
+2026-07-07,General Medicine,42,21.6,10
+2026-07-08,Emergency,29,25.9,16
+2026-07-08,Cardiology,30,26.2,10
+2026-07-08,Orthopedics,20,22.7,16
+2026-07-08,Pediatrics,17,20.4,11
+2026-07-08,General Medicine,37,19.1,11
+2026-07-09,Emergency,31,28.0,11
+2026-07-09,Cardiology,13,29.8,18
+2026-07-09,Orthopedics,26,26.9,11
+2026-07-09,Pediatrics,10,19.0,9
+2026-07-09,General Medicine,58,22.8,10
+2026-07-10,Emergency,31,17.3,18
+2026-07-10,Cardiology,36,23.5,10
+2026-07-10,Orthopedics,11,19.2,10
+2026-07-10,Pediatrics,15,22.4,10
+2026-07-10,General Medicine,46,26.5,16
+2026-07-11,Emergency,45,28.0,11
+2026-07-11,Cardiology,28,17.1,10
+2026-07-11,Orthopedics,22,17.6,18
+2026-07-11,Pediatrics,24,28.8,17
+2026-07-11,General Medicine,50,35.0,18
+2026-07-12,Emergency,42,34.6,17
+2026-07-12,Cardiology,22,18.7,11
+2026-07-12,Orthopedics,34,25.2,17
+2026-07-12,Pediatrics,10,19.9,10
+2026-07-12,General Medicine,44,39.6,10
+2026-07-13,Emergency,34,25.6,17
+2026-07-13,Cardiology,16,26.4,16
+2026-07-13,Orthopedics,19,28.7,18
+2026-07-13,Pediatrics,22,20.6,11
+2026-07-13,General Medicine,39,21.6,17
+2026-07-14,Emergency,33,20.1,9
+2026-07-14,Cardiology,22,24.0,17
+2026-07-14,Orthopedics,20,23.9,11
+2026-07-14,Pediatrics,17,25.5,10
+2026-07-14,General Medicine,45,26.6,17
+2026-07-15,Emergency,28,20.1,11
+2026-07-15,Cardiology,14,23.3,17
+2026-07-15,Orthopedics,18,23.4,18
+2026-07-15,Pediatrics,17,18.3,9
+2026-07-15,General Medicine,39,31.6,17
+2026-07-16,Emergency,32,18.8,10
+2026-07-16,Cardiology,26,25.1,16
+2026-07-16,Orthopedics,32,23.5,10
+2026-07-16,Pediatrics,22,18.6,11
+2026-07-16,General Medicine,45,29.2,17
+2026-07-17,Emergency,47,29.2,16
+2026-07-17,Cardiology,30,29.4,17
+2026-07-17,Orthopedics,24,24.3,10
+2026-07-17,Pediatrics,11,12.7,11
+2026-07-17,General Medicine,37,22.9,17
+2026-07-18,Emergency,40,27.8,18
+2026-07-18,Cardiology,21,25.6,11
+2026-07-18,Orthopedics,22,23.6,17
+2026-07-18,Pediatrics,21,19.2,16
+2026-07-18,General Medicine,49,28.0,16
+2026-07-19,Emergency,32,20.2,17
+2026-07-19,Cardiology,22,20.0,9
+2026-07-19,Orthopedics,27,28.4,10
+2026-07-19,Pediatrics,23,20.4,11
+2026-07-19,General Medicine,50,33.3,11
+2026-07-20,Emergency,40,26.3,18
+2026-07-20,Cardiology,27,20.7,10
+2026-07-20,Orthopedics,25,25.6,18
+2026-07-20,Pediatrics,18,21.5,10
+2026-07-20,General Medicine,41,26.2,16
+2026-07-21,Emergency,44,21.6,17
+2026-07-21,Cardiology,5,16.7,17
+2026-07-21,Orthopedics,20,27.9,18
+2026-07-21,Pediatrics,19,20.3,17
+2026-07-21,General Medicine,43,23.4,16
+2026-07-22,Emergency,33,29.0,9
+2026-07-22,Cardiology,21,18.8,16
+2026-07-22,Orthopedics,27,15.1,16
+2026-07-22,Pediatrics,24,25.5,16
+2026-07-22,General Medicine,46,29.0,10
+2026-07-23,Emergency,47,26.6,17
+2026-07-23,Cardiology,6,25.7,17
+2026-07-23,Orthopedics,24,26.1,9
+2026-07-23,Pediatrics,15,24.0,17
+2026-07-23,General Medicine,39,32.2,9
+2026-07-24,Emergency,32,21.4,17
+2026-07-24,Cardiology,25,18.5,17
+2026-07-24,Orthopedics,28,23.7,11
+2026-07-24,Pediatrics,17,20.7,18
+2026-07-24,General Medicine,49,24.9,16
+2026-07-25,Emergency,40,21.5,9
+2026-07-25,Cardiology,31,25.8,9
+2026-07-25,Orthopedics,28,23.4,18
+2026-07-25,Pediatrics,20,23.8,17
+2026-07-25,General Medicine,56,21.1,16
+2026-07-26,Emergency,52,28.9,18
+2026-07-26,Cardiology,21,29.9,17
+2026-07-26,Orthopedics,21,19.2,10
+2026-07-26,Pediatrics,23,29.8,9
+2026-07-26,General Medicine,50,22.3,18
+2026-07-27,Emergency,39,19.9,18
+2026-07-27,Cardiology,22,17.2,17
+2026-07-27,Orthopedics,23,25.6,17
+2026-07-27,Pediatrics,22,23.2,18
+2026-07-27,General Medicine,37,22.4,18
+2026-07-28,Emergency,32,27.1,11
+2026-07-28,Cardiology,8,15.8,17
+2026-07-28,Orthopedics,24,16.2,16
+2026-07-28,Pediatrics,18,23.9,10
+2026-07-28,General Medicine,40,23.2,18
+2026-07-29,Emergency,41,31.1,9
+2026-07-29,Cardiology,14,27.5,17
+2026-07-29,Orthopedics,25,15.3,16
+2026-07-29,Pediatrics,20,18.4,11
+2026-07-29,General Medicine,45,38.5,11
+2026-07-30,Emergency,34,25.5,16
+2026-07-30,Cardiology,27,22.2,16
+2026-07-30,Orthopedics,25,26.3,10
+2026-07-30,Pediatrics,18,28.9,18
+2026-07-30,General Medicine,45,36.5,11
+2026-07-31,Emergency,45,30.6,16
+2026-07-31,Cardiology,13,17.4,16
+2026-07-31,Orthopedics,25,33.3,18
+2026-07-31,Pediatrics,24,29.1,18
+2026-07-31,General Medicine,36,33.0,18
+2026-08-01,Emergency,43,28.5,9
+2026-08-01,Cardiology,22,26.0,10
+2026-08-01,Orthopedics,21,17.4,18
+2026-08-01,Pediatrics,22,22.7,16
+2026-08-01,General Medicine,50,25.9,9
+2026-08-02,Emergency,38,24.2,18
+2026-08-02,Cardiology,12,16.7,11
+2026-08-02,Orthopedics,15,26.9,10
+2026-08-02,Pediatrics,18,23.4,18
+2026-08-02,General Medicine,44,32.0,16
+2026-08-03,Emergency,32,21.0,10
+2026-08-03,Cardiology,27,23.0,10
+2026-08-03,Orthopedics,16,23.5,17
+2026-08-03,Pediatrics,21,20.7,9
+2026-08-03,General Medicine,40,24.9,10
+2026-08-04,Emergency,43,14.8,18
+2026-08-04,Cardiology,17,19.7,17
+2026-08-04,Orthopedics,19,18.8,17
+2026-08-04,Pediatrics,21,20.4,11
+2026-08-04,General Medicine,36,32.3,17
+2026-08-05,Emergency,38,25.1,17
+2026-08-05,Cardiology,30,23.7,10
+2026-08-05,Orthopedics,29,20.8,18
+2026-08-05,Pediatrics,18,22.0,10
+2026-08-05,General Medicine,54,31.6,17
+2026-08-06,Emergency,37,26.3,17
+2026-08-06,Cardiology,22,24.1,9
+2026-08-06,Orthopedics,22,25.9,10
+2026-08-06,Pediatrics,12,35.8,16
+2026-08-06,General Medicine,42,19.8,10
+2026-08-07,Emergency,29,22.2,11
+2026-08-07,Cardiology,23,25.9,11
+2026-08-07,Orthopedics,34,19.5,17
+2026-08-07,Pediatrics,24,26.2,11
+2026-08-07,General Medicine,42,24.9,18
+2026-08-08,Emergency,37,15.9,11
+2026-08-08,Cardiology,22,20.4,16
+2026-08-08,Orthopedics,28,19.7,18
+2026-08-08,Pediatrics,23,25.7,16
+2026-08-08,General Medicine,39,27.0,16
+2026-08-09,Emergency,33,21.5,11
+2026-08-09,Cardiology,20,20.2,18
+2026-08-09,Orthopedics,28,25.9,10
+2026-08-09,Pediatrics,17,10.8,10
+2026-08-09,General Medicine,49,27.9,17
+2026-08-10,Emergency,39,18.8,17
+2026-08-10,Cardiology,13,29.7,17
+2026-08-10,Orthopedics,9,12.4,16
+2026-08-10,Pediatrics,15,14.7,18
+2026-08-10,General Medicine,43,29.8,9
+2026-08-11,Emergency,39,24.7,16
+2026-08-11,Cardiology,23,14.9,9
+2026-08-11,Orthopedics,24,29.7,11
+2026-08-11,Pediatrics,12,14.8,17
+2026-08-11,General Medicine,41,24.7,16
+2026-08-12,Emergency,27,23.7,11
+2026-08-12,Cardiology,16,29.3,17
+2026-08-12,Orthopedics,30,21.9,16
+2026-08-12,Pediatrics,18,13.5,9
+2026-08-12,General Medicine,40,30.5,10
+2026-08-13,Emergency,33,20.9,9
+2026-08-13,Cardiology,22,24.7,18
+2026-08-13,Orthopedics,29,28.2,17
+2026-08-13,Pediatrics,14,16.1,16
+2026-08-13,General Medicine,42,20.3,17
+2026-08-14,Emergency,25,23.2,9
+2026-08-14,Cardiology,23,24.9,11
+2026-08-14,Orthopedics,28,22.0,18
+2026-08-14,Pediatrics,9,15.2,10
+2026-08-14,General Medicine,28,24.0,17
+2026-08-15,Emergency,39,21.2,17
+2026-08-15,Cardiology,22,29.8,10
+2026-08-15,Orthopedics,21,21.4,17
+2026-08-15,Pediatrics,22,25.8,18
+2026-08-15,General Medicine,42,25.9,17
+2026-08-16,Emergency,40,28.7,17
+2026-08-16,Cardiology,29,21.3,16
+2026-08-16,Orthopedics,28,24.1,10
+2026-08-16,Pediatrics,35,21.6,10
+2026-08-16,General Medicine,41,35.9,16
+2026-08-17,Emergency,30,27.2,17
+2026-08-17,Cardiology,17,25.5,17
+2026-08-17,Orthopedics,24,23.1,18
+2026-08-17,Pediatrics,19,22.5,10
+2026-08-17,General Medicine,51,24.0,10
+2026-08-18,Emergency,32,33.8,11
+2026-08-18,Cardiology,15,16.5,11
+2026-08-18,Orthopedics,14,18.7,18
+2026-08-18,Pediatrics,19,19.7,11
+2026-08-18,General Medicine,47,21.8,9
+2026-08-19,Emergency,30,32.6,11
+2026-08-19,Cardiology,13,16.3,11
+2026-08-19,Orthopedics,21,21.8,16
+2026-08-19,Pediatrics,13,21.3,10
+2026-08-19,General Medicine,45,27.1,18
+2026-08-20,Emergency,24,18.0,10
+2026-08-20,Cardiology,19,22.6,11
+2026-08-20,Orthopedics,15,20.1,17
+2026-08-20,Pediatrics,13,28.0,17
+2026-08-20,General Medicine,42,36.2,10
+2026-08-21,Emergency,34,27.3,9
+2026-08-21,Cardiology,21,17.1,18
+2026-08-21,Orthopedics,29,25.7,11
+2026-08-21,Pediatrics,12,23.5,10
+2026-08-21,General Medicine,24,29.5,18
+2026-08-22,Emergency,33,30.2,10
+2026-08-22,Cardiology,18,23.8,11
+2026-08-22,Orthopedics,35,27.5,11
+2026-08-22,Pediatrics,25,17.2,18
+2026-08-22,General Medicine,43,30.7,11
+2026-08-23,Emergency,40,25.7,17
+2026-08-23,Cardiology,23,7.7,10
+2026-08-23,Orthopedics,29,26.6,17
+2026-08-23,Pediatrics,30,26.2,11
+2026-08-23,General Medicine,51,31.0,11
+2026-08-24,Emergency,19,19.8,18
+2026-08-24,Cardiology,17,25.7,11
+2026-08-24,Orthopedics,30,23.1,17
+2026-08-24,Pediatrics,21,30.1,11
+2026-08-24,General Medicine,37,30.4,9
+2026-08-25,Emergency,35,24.2,11
+2026-08-25,Cardiology,22,26.6,16
+2026-08-25,Orthopedics,20,24.1,10
+2026-08-25,Pediatrics,29,28.1,16
+2026-08-25,General Medicine,40,29.6,16
+2026-08-26,Emergency,35,20.4,9
+2026-08-26,Cardiology,13,18.7,10
+2026-08-26,Orthopedics,34,23.4,11
+2026-08-26,Pediatrics,14,29.4,10
+2026-08-26,General Medicine,34,39.1,17
+2026-08-27,Emergency,27,23.7,16
+2026-08-27,Cardiology,24,32.5,17
+2026-08-27,Orthopedics,19,26.1,9
+2026-08-27,Pediatrics,11,11.6,18
+2026-08-27,General Medicine,35,19.8,16
+2026-08-28,Emergency,26,8.0,18
+2026-08-28,Cardiology,16,18.5,18
+2026-08-28,Orthopedics,18,26.4,16
+2026-08-28,Pediatrics,17,17.6,16
+2026-08-28,General Medicine,35,26.6,17
+2026-08-29,Emergency,32,30.0,17
+2026-08-29,Cardiology,19,22.9,9
+2026-08-29,Orthopedics,19,22.5,9
+2026-08-29,Pediatrics,14,13.0,10
+2026-08-29,General Medicine,48,25.1,18
+2026-08-30,Emergency,43,34.0,18
+2026-08-30,Cardiology,33,21.3,17
+2026-08-30,Orthopedics,24,21.0,16
+2026-08-30,Pediatrics,21,24.0,18
+2026-08-30,General Medicine,47,32.3,10
+2026-08-31,Emergency,27,32.0,17
+2026-08-31,Cardiology,15,18.2,9
+2026-08-31,Orthopedics,18,15.5,17
+2026-08-31,Pediatrics,16,18.6,11
+2026-08-31,General Medicine,42,28.6,17
+2026-09-01,Emergency,33,27.1,11
+2026-09-01,Cardiology,19,27.6,16
+2026-09-01,Orthopedics,27,21.5,17
+2026-09-01,Pediatrics,19,25.8,17
+2026-09-01,General Medicine,42,25.5,10
+2026-09-02,Emergency,37,28.3,18
+2026-09-02,Cardiology,26,19.3,17
+2026-09-02,Orthopedics,32,29.4,17
+2026-09-02,Pediatrics,19,23.0,10
+2026-09-02,General Medicine,34,25.2,11
+2026-09-03,Emergency,35,31.3,11
+2026-09-03,Cardiology,13,22.5,17
+2026-09-03,Orthopedics,21,21.2,10
+2026-09-03,Pediatrics,5,17.2,10
+2026-09-03,General Medicine,35,30.2,11
+2026-09-04,Emergency,33,23.9,10
+2026-09-04,Cardiology,19,21.8,10
+2026-09-04,Orthopedics,23,26.8,9
+2026-09-04,Pediatrics,11,11.7,11
+2026-09-04,General Medicine,41,29.5,10
+2026-09-05,Emergency,48,25.5,16
+2026-09-05,Cardiology,27,19.0,17
+2026-09-05,Orthopedics,26,38.0,10
+2026-09-05,Pediatrics,29,30.4,11
+2026-09-05,General Medicine,39,31.9,9
+2026-09-06,Emergency,47,29.3,18
+2026-09-06,Cardiology,32,23.3,11
+2026-09-06,Orthopedics,23,26.6,16
+2026-09-06,Pediatrics,12,20.3,18
+2026-09-06,General Medicine,42,33.4,10
+2026-09-07,Emergency,35,26.0,17
+2026-09-07,Cardiology,11,20.5,10
+2026-09-07,Orthopedics,25,14.9,10
+2026-09-07,Pediatrics,22,22.4,18
+2026-09-07,General Medicine,34,27.2,17
+2026-09-08,Emergency,36,23.7,11
+2026-09-08,Cardiology,19,24.9,18
+2026-09-08,Orthopedics,28,21.9,10
+2026-09-08,Pediatrics,29,21.4,10
+2026-09-08,General Medicine,39,26.9,17
+2026-09-09,Emergency,33,25.1,10
+2026-09-09,Cardiology,5,28.5,16
+2026-09-09,Orthopedics,25,16.6,9
+2026-09-09,Pediatrics,13,28.2,16
+2026-09-09,General Medicine,44,24.4,17
+2026-09-10,Emergency,32,31.5,10
+2026-09-10,Cardiology,11,10.7,18
+2026-09-10,Orthopedics,17,13.7,18
+2026-09-10,Pediatrics,5,14.0,17
+2026-09-10,General Medicine,42,28.2,16
+2026-09-11,Emergency,24,17.6,9
+2026-09-11,Cardiology,24,27.8,9
+2026-09-11,Orthopedics,17,21.9,9
+2026-09-11,Pediatrics,16,31.7,16
+2026-09-11,General Medicine,38,32.4,10
+2026-09-12,Emergency,33,22.6,18
+2026-09-12,Cardiology,12,23.6,10
+2026-09-12,Orthopedics,27,19.6,16
+2026-09-12,Pediatrics,14,19.4,9
+2026-09-12,General Medicine,45,22.0,17
+2026-09-13,Emergency,29,18.4,10
+2026-09-13,Cardiology,19,26.9,11
+2026-09-13,Orthopedics,27,18.4,17
+2026-09-13,Pediatrics,21,19.5,9
+2026-09-13,General Medicine,47,26.6,17
+2026-09-14,Emergency,43,26.6,10
+2026-09-14,Cardiology,22,15.5,17
+2026-09-14,Orthopedics,17,17.5,16
+2026-09-14,Pediatrics,21,28.9,11
+2026-09-14,General Medicine,37,15.7,18
+2026-09-15,Emergency,33,26.2,16
+2026-09-15,Cardiology,26,27.6,16
+2026-09-15,Orthopedics,19,21.7,18
+2026-09-15,Pediatrics,20,24.2,16
+2026-09-15,General Medicine,46,28.6,10
+2026-09-16,Emergency,33,26.7,10
+2026-09-16,Cardiology,17,25.9,11
+2026-09-16,Orthopedics,14,14.0,10
+2026-09-16,Pediatrics,24,24.9,18
+2026-09-16,General Medicine,46,31.5,16
+2026-09-17,Emergency,43,30.1,10
+2026-09-17,Cardiology,15,22.6,16
+2026-09-17,Orthopedics,26,19.0,10
+2026-09-17,Pediatrics,14,19.8,18
+2026-09-17,General Medicine,38,35.8,11
+2026-09-18,Emergency,35,25.6,10
+2026-09-18,Cardiology,26,19.6,16
+2026-09-18,Orthopedics,11,26.0,16
+2026-09-18,Pediatrics,18,11.3,17
+2026-09-18,General Medicine,34,22.2,11
+2026-09-19,Emergency,39,24.1,11
+2026-09-19,Cardiology,22,20.8,18
+2026-09-19,Orthopedics,22,24.5,17
+2026-09-19,Pediatrics,11,25.4,18
+2026-09-19,General Medicine,41,23.9,17
+2026-09-20,Emergency,40,32.4,16
+2026-09-20,Cardiology,25,24.5,16
+2026-09-20,Orthopedics,36,18.7,10
+2026-09-20,Pediatrics,22,24.2,17
+2026-09-20,General Medicine,49,21.0,17
+2026-09-21,Emergency,30,21.2,18
+2026-09-21,Cardiology,25,21.8,9
+2026-09-21,Orthopedics,22,18.4,11
+2026-09-21,Pediatrics,15,17.8,16
+2026-09-21,General Medicine,41,19.1,10
+2026-09-22,Emergency,36,21.8,10
+2026-09-22,Cardiology,24,16.9,11
+2026-09-22,Orthopedics,32,26.8,9
+2026-09-22,Pediatrics,12,18.1,16
+2026-09-22,General Medicine,44,23.8,18
+2026-09-23,Emergency,31,19.6,18
+2026-09-23,Cardiology,5,18.5,10
+2026-09-23,Orthopedics,26,14.3,11
+2026-09-23,Pediatrics,22,29.1,9
+2026-09-23,General Medicine,45,20.5,11
+2026-09-24,Emergency,28,15.9,18
+2026-09-24,Cardiology,19,18.1,17
+2026-09-24,Orthopedics,11,9.8,17
+2026-09-24,Pediatrics,23,17.8,16
+2026-09-24,General Medicine,45,30.0,10
+2026-09-25,Emergency,40,23.1,9
+2026-09-25,Cardiology,19,20.8,17
+2026-09-25,Orthopedics,22,23.0,17
+2026-09-25,Pediatrics,22,18.0,9
+2026-09-25,General Medicine,37,27.9,16
+2026-09-26,Emergency,42,23.9,10
+2026-09-26,Cardiology,18,21.7,18
+2026-09-26,Orthopedics,22,29.0,17
+2026-09-26,Pediatrics,22,23.2,10
+2026-09-26,General Medicine,40,21.9,10
+2026-09-27,Emergency,38,25.3,18
+2026-09-27,Cardiology,29,19.5,11
+2026-09-27,Orthopedics,16,31.7,18
+2026-09-27,Pediatrics,22,16.1,11
+2026-09-27,General Medicine,47,27.1,10
+2026-09-28,Emergency,47,23.6,9
+2026-09-28,Cardiology,14,29.1,11
+2026-09-28,Orthopedics,21,22.8,10
+2026-09-28,Pediatrics,22,20.9,18
+2026-09-28,General Medicine,43,26.5,17
+2026-09-29,Emergency,33,29.2,9
+2026-09-29,Cardiology,22,26.9,10
+2026-09-29,Orthopedics,17,25.0,10
+2026-09-29,Pediatrics,9,18.3,16
+2026-09-29,General Medicine,36,33.3,17
+2026-09-30,Emergency,41,28.3,10
+2026-09-30,Cardiology,13,20.9,18
+2026-09-30,Orthopedics,13,18.2,11
+2026-09-30,Pediatrics,20,24.7,16
+2026-09-30,General Medicine,42,26.3,11
+2026-10-01,Emergency,30,30.0,18
+2026-10-01,Cardiology,20,30.3,18
+2026-10-01,Orthopedics,22,16.3,18
+2026-10-01,Pediatrics,17,22.0,16
+2026-10-01,General Medicine,43,23.1,17
+2026-10-02,Emergency,36,22.8,18
+2026-10-02,Cardiology,19,14.8,9
+2026-10-02,Orthopedics,23,18.5,11
+2026-10-02,Pediatrics,6,13.8,11
+2026-10-02,General Medicine,52,33.1,17
+2026-10-03,Emergency,34,20.7,10
+2026-10-03,Cardiology,20,33.0,16
+2026-10-03,Orthopedics,14,17.8,11
+2026-10-03,Pediatrics,19,21.9,18
+2026-10-03,General Medicine,46,22.7,10
+2026-10-04,Emergency,41,27.0,16
+2026-10-04,Cardiology,15,21.8,9
+2026-10-04,Orthopedics,26,26.6,11
+2026-10-04,Pediatrics,25,23.9,18
+2026-10-04,General Medicine,40,25.7,10
+2026-10-05,Emergency,30,19.9,11
+2026-10-05,Cardiology,9,18.8,17
+2026-10-05,Orthopedics,16,19.6,11
+2026-10-05,Pediatrics,19,25.9,17
+2026-10-05,General Medicine,36,28.6,11
+2026-10-06,Emergency,28,30.1,16
+2026-10-06,Cardiology,22,27.5,17
+2026-10-06,Orthopedics,30,26.6,10
+2026-10-06,Pediatrics,19,22.4,17
+2026-10-06,General Medicine,41,25.5,18
+2026-10-07,Emergency,23,20.4,11
+2026-10-07,Cardiology,15,20.1,9
+2026-10-07,Orthopedics,24,19.6,18
+2026-10-07,Pediatrics,22,19.3,17
+2026-10-07,General Medicine,44,33.0,10
+2026-10-08,Emergency,52,34.7,17
+2026-10-08,Cardiology,14,20.6,17
+2026-10-08,Orthopedics,32,32.4,10
+2026-10-08,Pediatrics,10,22.6,10
+2026-10-08,General Medicine,30,25.8,9
+2026-10-09,Emergency,38,28.8,18
+2026-10-09,Cardiology,13,20.3,18
+2026-10-09,Orthopedics,10,23.9,11
+2026-10-09,Pediatrics,22,28.4,17
+2026-10-09,General Medicine,43,24.2,10
+2026-10-10,Emergency,38,24.0,16
+2026-10-10,Cardiology,33,17.6,10
+2026-10-10,Orthopedics,18,26.5,10
+2026-10-10,Pediatrics,22,18.1,10
+2026-10-10,General Medicine,49,37.6,9
+2026-10-11,Emergency,32,26.7,11
+2026-10-11,Cardiology,22,30.1,17
+2026-10-11,Orthopedics,24,26.4,17
+2026-10-11,Pediatrics,15,17.3,18
+2026-10-11,General Medicine,51,36.8,11
+2026-10-12,Emergency,34,23.9,17
+2026-10-12,Cardiology,23,18.1,10
+2026-10-12,Orthopedics,25,22.6,10
+2026-10-12,Pediatrics,24,27.1,17
+2026-10-12,General Medicine,28,25.4,17
+2026-10-13,Emergency,24,20.0,11
+2026-10-13,Cardiology,19,30.3,17
+2026-10-13,Orthopedics,17,24.4,16
+2026-10-13,Pediatrics,19,24.2,10
+2026-10-13,General Medicine,49,34.3,9
+2026-10-14,Emergency,38,30.8,9
+2026-10-14,Cardiology,26,24.7,10
+2026-10-14,Orthopedics,22,12.7,16
+2026-10-14,Pediatrics,13,14.9,10
+2026-10-14,General Medicine,42,27.1,10
+2026-10-15,Emergency,35,30.7,18
+2026-10-15,Cardiology,18,21.9,11
+2026-10-15,Orthopedics,10,19.9,18
+2026-10-15,Pediatrics,16,19.0,11
+2026-10-15,General Medicine,51,27.6,17
+2026-10-16,Emergency,45,25.1,18
+2026-10-16,Cardiology,19,31.1,11
+2026-10-16,Orthopedics,23,22.7,10
+2026-10-16,Pediatrics,18,26.4,16
+2026-10-16,General Medicine,37,24.9,17
+2026-10-17,Emergency,45,24.6,16
+2026-10-17,Cardiology,24,30.9,9
+2026-10-17,Orthopedics,17,20.4,10
+2026-10-17,Pediatrics,18,30.0,11
+2026-10-17,General Medicine,34,21.3,10
+2026-10-18,Emergency,41,29.2,10
+2026-10-18,Cardiology,25,29.4,11
+2026-10-18,Orthopedics,31,23.3,11
+2026-10-18,Pediatrics,11,20.4,10
+2026-10-18,General Medicine,51,21.3,9
+2026-10-19,Emergency,27,26.5,16
+2026-10-19,Cardiology,27,21.3,10
+2026-10-19,Orthopedics,30,16.4,17
+2026-10-19,Pediatrics,23,21.8,9
+2026-10-19,General Medicine,45,21.9,17
+2026-10-20,Emergency,33,28.8,11
+2026-10-20,Cardiology,15,21.8,18
+2026-10-20,Orthopedics,35,18.2,10
+2026-10-20,Pediatrics,11,25.5,17
+2026-10-20,General Medicine,35,22.8,18
+2026-10-21,Emergency,35,28.1,16
+2026-10-21,Cardiology,11,24.1,10
+2026-10-21,Orthopedics,29,20.8,18
+2026-10-21,Pediatrics,17,28.2,11
+2026-10-21,General Medicine,38,22.0,17
+2026-10-22,Emergency,27,20.3,10
+2026-10-22,Cardiology,8,26.1,11
+2026-10-22,Orthopedics,27,26.7,9
+2026-10-22,Pediatrics,11,19.7,18
+2026-10-22,General Medicine,42,31.3,11
+2026-10-23,Emergency,36,30.5,18
+2026-10-23,Cardiology,16,23.9,16
+2026-10-23,Orthopedics,23,17.8,11
+2026-10-23,Pediatrics,21,27.1,17
+2026-10-23,General Medicine,44,25.0,16
+2026-10-24,Emergency,46,32.2,17
+2026-10-24,Cardiology,33,21.7,11
+2026-10-24,Orthopedics,20,21.1,16
+2026-10-24,Pediatrics,18,19.2,17
+2026-10-24,General Medicine,46,25.1,11
+2026-10-25,Emergency,42,23.4,11
+2026-10-25,Cardiology,8,14.3,17
+2026-10-25,Orthopedics,25,18.8,9
+2026-10-25,Pediatrics,12,21.5,17
+2026-10-25,General Medicine,47,28.4,16
+2026-10-26,Emergency,41,19.3,9
+2026-10-26,Cardiology,17,19.7,18
+2026-10-26,Orthopedics,30,28.7,11
+2026-10-26,Pediatrics,21,25.8,18
+2026-10-26,General Medicine,45,27.1,17
+2026-10-27,Emergency,36,27.0,16
+2026-10-27,Cardiology,19,18.6,17
+2026-10-27,Orthopedics,22,23.7,17
+2026-10-27,Pediatrics,10,15.7,18
+2026-10-27,General Medicine,43,21.4,16
+2026-10-28,Emergency,36,28.9,16
+2026-10-28,Cardiology,19,30.5,18
+2026-10-28,Orthopedics,28,25.8,16
+2026-10-28,Pediatrics,22,22.0,9
+2026-10-28,General Medicine,36,25.1,18
+2026-10-29,Emergency,35,28.2,16
+2026-10-29,Cardiology,11,28.5,10
+2026-10-29,Orthopedics,25,16.9,9
+2026-10-29,Pediatrics,20,29.1,9
+2026-10-29,General Medicine,39,27.6,11
+2026-10-30,Emergency,31,17.0,9
+2026-10-30,Cardiology,26,23.3,16
+2026-10-30,Orthopedics,19,18.0,9
+2026-10-30,Pediatrics,20,24.9,18
+2026-10-30,General Medicine,33,22.5,17
+2026-10-31,Emergency,34,29.4,18
+2026-10-31,Cardiology,16,21.8,17
+2026-10-31,Orthopedics,30,26.6,10
+2026-10-31,Pediatrics,21,21.7,17
+2026-10-31,General Medicine,46,26.5,18
+2026-11-01,Emergency,46,31.3,18
+2026-11-01,Cardiology,21,16.3,17
+2026-11-01,Orthopedics,25,24.6,17
+2026-11-01,Pediatrics,25,20.0,18
+2026-11-01,General Medicine,53,33.5,9
+2026-11-02,Emergency,33,24.7,17
+2026-11-02,Cardiology,22,35.5,10
+2026-11-02,Orthopedics,26,15.3,9
+2026-11-02,Pediatrics,25,25.5,17
+2026-11-02,General Medicine,46,19.2,11
+2026-11-03,Emergency,45,17.9,11
+2026-11-03,Cardiology,5,23.8,18
+2026-11-03,Orthopedics,8,22.0,10
+2026-11-03,Pediatrics,20,25.3,16
+2026-11-03,General Medicine,29,27.8,18
+2026-11-04,Emergency,40,16.9,18
+2026-11-04,Cardiology,14,13.1,18
+2026-11-04,Orthopedics,24,16.1,11
+2026-11-04,Pediatrics,21,19.9,10
+2026-11-04,General Medicine,28,22.5,16
+2026-11-05,Emergency,35,27.6,17
+2026-11-05,Cardiology,18,23.4,16
+2026-11-05,Orthopedics,21,24.2,16
+2026-11-05,Pediatrics,14,23.7,17
+2026-11-05,General Medicine,42,27.4,16
+2026-11-06,Emergency,32,22.5,17
+2026-11-06,Cardiology,22,24.0,11
+2026-11-06,Orthopedics,19,31.7,11
+2026-11-06,Pediatrics,12,15.7,17
+2026-11-06,General Medicine,49,35.6,10
+2026-11-07,Emergency,33,34.3,16
+2026-11-07,Cardiology,20,29.6,10
+2026-11-07,Orthopedics,38,27.6,16
+2026-11-07,Pediatrics,16,12.3,16
+2026-11-07,General Medicine,52,32.4,11
+2026-11-08,Emergency,32,26.2,16
+2026-11-08,Cardiology,24,24.1,18
+2026-11-08,Orthopedics,30,8.9,17
+2026-11-08,Pediatrics,35,18.2,9
+2026-11-08,General Medicine,45,25.6,17
+2026-11-09,Emergency,37,26.9,16
+2026-11-09,Cardiology,20,38.3,9
+2026-11-09,Orthopedics,23,14.5,17
+2026-11-09,Pediatrics,25,16.8,17
+2026-11-09,General Medicine,40,33.7,16
+2026-11-10,Emergency,32,15.7,10
+2026-11-10,Cardiology,23,14.2,16
+2026-11-10,Orthopedics,27,29.6,10
+2026-11-10,Pediatrics,22,25.4,17
+2026-11-10,General Medicine,29,16.9,9
+2026-11-11,Emergency,33,27.2,18
+2026-11-11,Cardiology,26,29.5,16
+2026-11-11,Orthopedics,24,19.0,9
+2026-11-11,Pediatrics,20,5.4,18
+2026-11-11,General Medicine,44,24.7,17
+2026-11-12,Emergency,32,25.7,17
+2026-11-12,Cardiology,29,23.9,16
+2026-11-12,Orthopedics,29,27.3,10
+2026-11-12,Pediatrics,24,36.0,16
+2026-11-12,General Medicine,41,27.9,16
+2026-11-13,Emergency,31,23.4,18
+2026-11-13,Cardiology,12,18.1,9
+2026-11-13,Orthopedics,33,27.9,16
+2026-11-13,Pediatrics,13,27.7,17
+2026-11-13,General Medicine,41,24.8,18
+2026-11-14,Emergency,32,27.0,10
+2026-11-14,Cardiology,21,23.6,10
+2026-11-14,Orthopedics,28,21.8,17
+2026-11-14,Pediatrics,24,28.9,10
+2026-11-14,General Medicine,43,22.7,10
+2026-11-15,Emergency,35,20.6,11
+2026-11-15,Cardiology,25,26.4,11
+2026-11-15,Orthopedics,30,22.5,11
+2026-11-15,Pediatrics,18,24.2,9
+2026-11-15,General Medicine,43,20.8,9
+2026-11-16,Emergency,33,15.8,11
+2026-11-16,Cardiology,25,36.1,17
+2026-11-16,Orthopedics,19,16.6,17
+2026-11-16,Pediatrics,19,18.1,16
+2026-11-16,General Medicine,29,29.0,10
+2026-11-17,Emergency,34,18.3,10
+2026-11-17,Cardiology,18,21.9,16
+2026-11-17,Orthopedics,31,28.5,17
+2026-11-17,Pediatrics,27,26.8,11
+2026-11-17,General Medicine,47,33.7,9
+2026-11-18,Emergency,26,19.5,18
+2026-11-18,Cardiology,24,23.2,16
+2026-11-18,Orthopedics,30,30.6,17
+2026-11-18,Pediatrics,12,23.1,9
+2026-11-18,General Medicine,31,23.4,18
+2026-11-19,Emergency,37,36.2,17
+2026-11-19,Cardiology,34,26.4,16
+2026-11-19,Orthopedics,15,26.9,10
+2026-11-19,Pediatrics,14,27.5,18
+2026-11-19,General Medicine,48,26.7,10
+2026-11-20,Emergency,34,29.4,18
+2026-11-20,Cardiology,22,32.7,18
+2026-11-20,Orthopedics,21,26.8,11
+2026-11-20,Pediatrics,30,30.5,18
+2026-11-20,General Medicine,40,29.7,10
+2026-11-21,Emergency,41,29.3,9
+2026-11-21,Cardiology,20,21.6,11
+2026-11-21,Orthopedics,36,24.7,16
+2026-11-21,Pediatrics,15,24.9,18
+2026-11-21,General Medicine,56,31.3,9
+2026-11-22,Emergency,38,29.0,17
+2026-11-22,Cardiology,23,23.7,11
+2026-11-22,Orthopedics,24,22.1,11
+2026-11-22,Pediatrics,36,19.9,10
+2026-11-22,General Medicine,40,26.3,18
+2026-11-23,Emergency,38,27.2,10
+2026-11-23,Cardiology,16,20.3,16
+2026-11-23,Orthopedics,13,15.1,18
+2026-11-23,Pediatrics,23,24.3,16
+2026-11-23,General Medicine,30,17.2,17

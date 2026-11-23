@@ -1,0 +1,61 @@
+staff_id,name,role,department,available,max_shifts_per_week
+STF001,Employee 01,Doctor,Emergency,True,5
+STF002,Employee 02,Nurse,Cardiology,True,5
+STF003,Employee 03,Support,Orthopedics,True,5
+STF004,Employee 04,Doctor,Pediatrics,True,4
+STF005,Employee 05,Nurse,General Medicine,True,5
+STF006,Employee 06,Support,Emergency,True,4
+STF007,Employee 07,Doctor,Cardiology,True,4
+STF008,Employee 08,Nurse,Orthopedics,True,6
+STF009,Employee 09,Support,Pediatrics,True,5
+STF010,Employee 10,Doctor,General Medicine,True,5
+STF011,Employee 11,Nurse,Emergency,True,6
+STF012,Employee 12,Support,Cardiology,True,4
+STF013,Employee 13,Doctor,Orthopedics,True,6
+STF014,Employee 14,Nurse,Pediatrics,True,6
+STF015,Employee 15,Support,General Medicine,True,5
+STF016,Employee 16,Doctor,Emergency,True,4
+STF017,Employee 17,Nurse,Cardiology,True,4
+STF018,Employee 18,Support,Orthopedics,True,5
+STF019,Employee 19,Doctor,Pediatrics,True,5
+STF020,Employee 20,Nurse,General Medicine,True,5
+STF021,Employee 21,Support,Emergency,True,4
+STF022,Employee 22,Doctor,Cardiology,True,6
+STF023,Employee 23,Nurse,Orthopedics,True,5
+STF024,Employee 24,Support,Pediatrics,True,6
+STF025,Employee 25,Doctor,General Medicine,True,4
+STF026,Employee 26,Nurse,Emergency,True,4
+STF027,Employee 27,Support,Cardiology,True,6
+STF028,Employee 28,Doctor,Orthopedics,True,4
+STF029,Employee 29,Nurse,Pediatrics,True,6
+STF030,Employee 30,Support,General Medicine,True,5
+STF031,Employee 31,Doctor,Emergency,True,5
+STF032,Employee 32,Nurse,Cardiology,True,4
+STF033,Employee 33,Support,Orthopedics,True,5
+STF034,Employee 34,Doctor,Pediatrics,True,4
+STF035,Employee 35,Nurse,General Medicine,True,5
+STF036,Employee 36,Support,Emergency,True,6
+STF037,Employee 37,Doctor,Cardiology,True,4
+STF038,Employee 38,Nurse,Orthopedics,True,6
+STF039,Employee 39,Support,Pediatrics,True,5
+STF040,Employee 40,Doctor,General Medicine,True,5
+STF041,Employee 41,Nurse,Emergency,True,5
+STF042,Employee 42,Support,Cardiology,True,5
+STF043,Employee 43,Doctor,Orthopedics,True,6
+STF044,Employee 44,Nurse,Pediatrics,True,6
+STF045,Employee 45,Support,General Medicine,True,6
+STF046,Employee 46,Doctor,Emergency,True,5
+STF047,Employee 47,Nurse,Cardiology,True,6
+STF048,Employee 48,Support,Orthopedics,True,6
+STF049,Employee 49,Doctor,Pediatrics,True,6
+STF050,Employee 50,Nurse,General Medicine,True,6
+STF051,Employee 51,Support,Emergency,True,4
+STF052,Employee 52,Doctor,Cardiology,True,4
+STF053,Employee 53,Nurse,Orthopedics,True,5
+STF054,Employee 54,Support,Pediatrics,True,4
+STF055,Employee 55,Doctor,General Medicine,True,6
+STF056,Employee 56,Nurse,Emergency,True,6
+STF057,Employee 57,Support,Cardiology,True,4
+STF058,Employee 58,Doctor,Orthopedics,True,4
+STF059,Employee 59,Nurse,Pediatrics,True,4
+STF060,Employee 60,Support,General Medicine,True,5
